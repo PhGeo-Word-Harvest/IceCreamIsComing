@@ -3,10 +3,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eiscreme',de,Anpassung,#a89216,#87830f,1,0.3053305817018207
 'Sonnenstunden',de,Sommer,#4287f5,#3b4a63,3,0.2448385654302002
 'Sonne',de,Sommer,#4287f5,#315fa8,3,0.2395749372270322
+'Hitzerekord',de,Sommer,#9e3215,#802d16,2,0.2052893993420042
 'Schatten',de,Anpassung,#9e3215,#d64118,3,0.1893461844965446
 'Sonnencreme',de,Anpassung,#a89216,#bfba22,3,0.1888640998902947
-'Sommerferien',de,Schule,#4287f5,#022f78,3,0.15127409420229904
-'Hitzerekord',de,Sommer,#9e3215,#802d16,2,0.1298109168729461
+'Sommerferien',de,Schule,#4287f5,#022f78,3,0.151274094202299
 'Sonnenstich',de,Sommer,#a89216,#a89216,3,0.1293110604031849
 'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.1274890563348751
 'Hitzetod',de,Sommer,#679e2c,#61b00c,2,0.1243958276421334
