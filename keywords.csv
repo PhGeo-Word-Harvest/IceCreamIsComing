@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenstunden',de,Sommer,#4287f5,#3b4a63,3,0.2448385654302002
 'Sonne',de,Sommer,#4287f5,#315fa8,3,0.2176988807338864
 'Hitzerekord',de,Sommer,#9e3215,#802d16,2,0.2052893993420042
+'Sonnencreme',de,Anpassung,#a89216,#bfba22,3,0.1993990856210362
 'Schatten',de,Anpassung,#9e3215,#d64118,3,0.1893461844965446
-'Sonnencreme',de,Anpassung,#a89216,#bfba22,3,0.1888640998902947
 'Sommerferien',de,Schule,#4287f5,#022f78,3,0.151274094202299
 'Sonnenstich',de,Sommer,#a89216,#a89216,3,0.1293110604031849
 'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.1274890563348751
