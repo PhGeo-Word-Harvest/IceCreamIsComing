@@ -1,29 +1,42 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Detroit Lions,Detroit Lions,ORG,0.7,0.0,de,2
-Wiener Philharmoniker,Wiener Philharmoniker,ORG,0.0,0.0,de,2
-FDP,FDP,ORG,0.5,0.0,de,2
-Grünen,Grünen,ORG,0.5,0.0,de,2
-Sonne & Co.,Sonne & Co.,ORG,0.0,0.0,de,2
-Union,Union,ORG,0.5,0.0,de,2
+WELT,WELT,ORG,0.5916666666666667,0.0,de,4
+ARD,ARD,ORG,0.0,0.0,de,3
 SPD,SPD,ORG,0.5,0.0,de,2
 Parker Solar Probe,Parker Solar Probe,ORG,0.0,0.0,de,2
 Sat.1,Sat.1,ORG,0.35,0.0,de,2
-Assads,Assads,ORG,0.0,0.0,de,1
-RTL,RTL,ORG,-0.7,0.0,de,1
+Grünen,Grünen,ORG,0.5,0.0,de,2
+FDP,FDP,ORG,0.5,0.0,de,2
+ZDF,ZDF,ORG,0.0,0.0,de,2
+Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,0.0,0.0,de,2
+Wiener Philharmoniker,Wiener Philharmoniker,ORG,0.0,0.0,de,2
+Union,Union,ORG,0.5,0.0,de,2
+Sonne & Co.,Sonne & Co.,ORG,0.0,0.0,de,2
+Detroit Lions,Detroit Lions,ORG,0.7,0.0,de,2
 Lions,Lions,ORG,0.7,0.0,de,1
+ium,ium,ORG,0.0,0.0,de,1
+Fridays for Future,Fridays for Future,ORG,0.0,0.0,de,1
 DWD,DWD,ORG,1.0,0.0,de,1
 Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,0.0,0.0,de,1
-Nasa-Sonde,Nasa-Sonde,ORG,0.0,0.0,de,1
-DPA,DPA,ORG,0.0,0.0,de,1
-Schalke Kees van ... Anschlag,Schalke Kees van ... Anschlag,ORG,0.0,0.0,de,1
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,0.7,0.0,de,1
-DFK – Verband für Fach- und Führungskräfte,DFK – Verband für Fach- und Führungskräfte,ORG,0.7,0.0,de,1
-Shutterstock.com,Shutterstock.com,ORG,-1.0,0.0,de,1
-Partei,Partei,ORG,0.0,0.0,de,1
-Musk,Musk,ORG,0.0,0.0,de,1
-wow,wow,ORG,-0.7,0.0,de,1
-ProSieben,ProSieben,ORG,0.7,0.0,de,1
-TV,TV,ORG,0.7,0.0,de,1
-Kino-Auswertung,Kino-Auswertung,ORG,0.7,0.0,de,1
-ProSiebenSat.1,ProSiebenSat.1,ORG,0.0,0.0,de,1
+Lindt &amp,Lindt &amp,ORG,0.0,0.0,de,1
 Deutsche Segler,Deutsche Segler,ORG,0.0,0.0,de,1
+REUTERS,REUTERS,ORG,0.0,0.0,de,1
+Wirtschaftsuniversität Wien,Wirtschaftsuniversität Wien,ORG,0.0,0.0,de,1
+Assads,Assads,ORG,0.0,0.0,de,1
+Smartphone-Partner,Smartphone-Partner,ORG,0.0,0.0,de,1
+Nasa-Sonde,Nasa-Sonde,ORG,0.0,0.0,de,1
+Partei,Partei,ORG,0.0,0.0,de,1
+ProSiebenSat.1,ProSiebenSat.1,ORG,0.0,0.0,de,1
+Kino-Auswertung,Kino-Auswertung,ORG,0.7,0.0,de,1
+TV,TV,ORG,0.7,0.0,de,1
+ProSieben,ProSieben,ORG,0.7,0.0,de,1
+wow,wow,ORG,-0.7,0.0,de,1
+Musk,Musk,ORG,0.0,0.0,de,1
+Balkonkraftwerk,Balkonkraftwerk,ORG,0.0,0.0,de,1
+RTL,RTL,ORG,-0.7,0.0,de,1
+Shutterstock.com,Shutterstock.com,ORG,-1.0,0.0,de,1
+RX,RX,ORG,0.0,0.0,de,1
+DFK – Verband für Fach- und Führungskräfte,DFK – Verband für Fach- und Führungskräfte,ORG,0.7,0.0,de,1
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,0.7,0.0,de,1
+Schalke Kees van ... Anschlag,Schalke Kees van ... Anschlag,ORG,0.0,0.0,de,1
+DPA,DPA,ORG,0.0,0.0,de,1
+Samba,Samba,ORG,0.0,0.0,de,1

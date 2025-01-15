@@ -1,64 +1,98 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Deutschland,Deutschland,LOC,0.3444444444444444,0.0,de,9
+Ostsee,Ostsee,LOC,-0.2,0.0,de,5
 Magdeburg,Magdeburg,LOC,-0.2,0.0,de,5
-Deutschland,Deutschland,LOC,0.33999999999999997,0.0,de,5
-Berlin,Berlin,LOC,0.0,0.0,de,3
-Monaco,Monaco,LOC,0.0,0.0,de,3
-Athen,Athen,LOC,-0.3333333333333333,0.0,de,3
+Berlin,Berlin,LOC,0.0,0.0,de,4
+Deutschlands,Deutschlands,LOC,-0.3375,0.25,de,4
 Erzbischöfliche Palais,Erzbischöfliche Palais,LOC,0.5666666666666667,0.0,de,3
-Ostsee,Ostsee,LOC,0.0,0.0,de,3
-Deutschlands,Deutschlands,LOC,-0.45,0.0,de,3
-Divisionstitel,Divisionstitel,LOC,0.7,0.0,de,2
-Izmir,Izmir,LOC,0.0,0.0,de,2
-Wiener Stephansplatz,Wiener Stephansplatz,LOC,0.85,0.0,de,2
-Mauritius,Mauritius,LOC,0.0,0.0,de,2
-Schwarzwald,Schwarzwald,LOC,0.0,0.0,de,2
-Embargos,Embargos,LOC,0.0,0.0,de,2
+Athen,Athen,LOC,-0.3333333333333333,0.0,de,3
+Monaco,Monaco,LOC,0.0,0.0,de,3
 Bremen,Bremen,LOC,-0.7,0.0,de,2
+Australien,Australien,LOC,0.7,0.0,de,2
+Wahlkampf-Modus,Wahlkampf-Modus,LOC,0.0,0.0,de,2
+Divisionstitel,Divisionstitel,LOC,0.7,0.0,de,2
 Niedersachsen,Niedersachsen,LOC,-0.7,0.0,de,2
-Europas,Europas,LOC,0.0,0.0,de,2
-Indischen Ozeans,Indischen Ozeans,LOC,0.0,1.0,de,2
+Forscherberechnungen,Forscherberechnungen,LOC,0.0,0.0,de,2
+den USA,den USA,LOC,0.7,0.0,de,2
+Kilchberg,Kilchberg,LOC,-0.35,0.0,de,2
+Bergen,Bergen,LOC,0.425,0.0,de,2
+Nasa,Nasa,LOC,0.0,0.0,de,2
+sin…,sin…,LOC,0.0,0.0,de,2
+Außergewöhnlich,Außergewöhnlich,LOC,1.0,0.0,de,2
+Wiener Stephansplatz,Wiener Stephansplatz,LOC,0.85,0.0,de,2
+Sachsen,Sachsen,LOC,-0.35,0.0,de,2
+Schwarzwald,Schwarzwald,LOC,0.0,0.0,de,2
+Izmir,Izmir,LOC,0.0,0.0,de,2
+Erde,Erde,LOC,0.0,0.0,de,2
 Australian Open,Australian Open,LOC,0.0,0.5,de,2
 Türkei,Türkei,LOC,0.0,0.0,de,2
+Indischen Ozeans,Indischen Ozeans,LOC,0.0,1.0,de,2
+Mauritius,Mauritius,LOC,0.0,0.0,de,2
+Skifahren,Skifahren,LOC,0.0,0.0,de,2
+Schatten,Schatten,LOC,0.35,0.0,de,2
 Neukölln,Neukölln,LOC,0.0,0.5,de,2
+Copernicus-Studie,Copernicus-Studie,LOC,0.7,0.0,de,2
+Europas,Europas,LOC,0.0,0.0,de,2
+Embargos,Embargos,LOC,0.0,0.0,de,2
+Blackrock,Blackrock,LOC,0.85,0.0,de,2
 Island,Island,LOC,0.0,0.0,de,2
-Herausforderu,Herausforderu,LOC,1.0,0.0,de,1
-Sonne,Sonne,LOC,0.0,0.0,de,1
-Doms,Doms,LOC,0.0,0.0,de,1
-Wien,Wien,LOC,0.0,0.0,de,1
-Syriens,Syriens,LOC,0.7,0.0,de,1
-Nigeria,Nigeria,LOC,-0.7,0.0,de,1
+Copernicus-Report,Copernicus-Report,LOC,0.0,0.0,de,1
+Wuchshüllen,Wuchshüllen,LOC,0.0,0.0,de,1
+Baumhasel,Baumhasel,LOC,0.0,0.0,de,1
 Steigend…,Steigend…,LOC,0.0,0.0,de,1
-Erde,Erde,LOC,0.0,0.0,de,1
+Sonne,Sonne,LOC,0.0,0.0,de,1
+Deutschlan,Deutschlan,LOC,0.0,0.0,de,1
+Rio de Janeiro,Rio de Janeiro,LOC,0.0,0.0,de,1
+Nigeria,Nigeria,LOC,-0.7,0.0,de,1
 Mareterra,Mareterra,LOC,0.0,0.0,de,1
+Tag am Strand,Tag am Strand,LOC,0.85,0.0,de,1
 Meer,Meer,LOC,0.0,0.0,de,1
-Bénazetsaal,Bénazetsaal,LOC,1.0,0.0,de,1
 Promis,Promis,LOC,0.0,0.0,de,1
-FOCUS-online-Redakteurin,FOCUS-online-Redakteurin,LOC,1.0,0.0,de,1
-Bezirke-Newsletter,Bezirke-Newsletter,LOC,0.0,1.0,de,1
 Top-Vorständen,Top-Vorständen,LOC,0.0,0.0,de,1
 Schattenflotte,Schattenflotte,LOC,0.0,0.0,de,1
-Schatten,Schatten,LOC,0.0,0.0,de,1
-Bezirks,Bezirks,LOC,0.0,0.0,de,1
-down,down,LOC,-0.7,0.0,de,1
-Genre-Ableger,Genre-Ableger,LOC,0.0,1.0,de,1
-Tälern,Tälern,LOC,0.0,0.0,de,1
-Feedback</li><li,Feedback</li><li,LOC,0.0,1.0,de,1
+FOCUS-online-Redakteurin,FOCUS-online-Redakteurin,LOC,1.0,0.0,de,1
+Wall Street-Banken,Wall Street-Banken,LOC,1.0,0.0,de,1
+Klimaallianzen,Klimaallianzen,LOC,0.0,0.0,de,1
+Milliardenhöhe,Milliardenhöhe,LOC,0.0,0.0,de,1
+Australiens,Australiens,LOC,-1.0,0.0,de,1
+Landesmuseum,Landesmuseum,LOC,-0.35,0.5,de,1
+Extremwetter,Extremwetter,LOC,0.0,0.0,de,1
+Kyodo,Kyodo,LOC,0.0,0.0,de,1
+Travemünde,Travemünde,LOC,0.0,0.0,de,1
+Berlin-Neukölln,Berlin-Neukölln,LOC,0.0,0.0,de,1
+Sich ans Meer,Sich ans Meer,LOC,-1.0,0.0,de,1
+A…,A…,LOC,0.0,0.0,de,1
+Indonesien,Indonesien,LOC,0.0,0.0,de,1
+Bandar Lampung,Bandar Lampung,LOC,0.0,0.0,de,1
+Wetterrisiken,Wetterrisiken,LOC,-1.0,0.0,de,1
+Bénazetsaal,Bénazetsaal,LOC,1.0,0.0,de,1
+Herausforderu,Herausforderu,LOC,1.0,0.0,de,1
 Baden,Baden,LOC,0.0,0.0,de,1
 Mitte-rechts-Wähler,Mitte-rechts-Wähler,LOC,0.0,0.0,de,1
-Wetterrisiken,Wetterrisiken,LOC,-1.0,0.0,de,1
-Scholz,Scholz,LOC,0.0,0.0,de,1
-Kommentare</li><li,Kommentare</li><li,LOC,0.0,1.0,de,1
-Teilen</li><li,Teilen</li><li,LOC,0.0,1.0,de,1
-Twitter</li><li,Twitter</li><li,LOC,0.0,1.0,de,1
-Drucken</li><li,Drucken</li><li,LOC,0.0,1.0,de,1
-S…,S…,LOC,-0.7,0.0,de,1
-Bergen,Bergen,LOC,0.0,0.0,de,1
-Bezirksamt will,Bezirksamt will,LOC,0.0,0.0,de,1
-Brandenburg,Brandenburg,LOC,0.0,0.0,de,1
 Amerikaner,Amerikaner,LOC,1.0,0.0,de,1
-Sturmböen,Sturmböen,LOC,-0.7,0.0,de,1
 Ukraine dauerh…,Ukraine dauerh…,LOC,0.7,0.0,de,1
 Ukraine,Ukraine,LOC,0.0,0.0,de,1
 Europäern,Europäern,LOC,0.0,0.0,de,1
+down,down,LOC,-0.7,0.0,de,1
+Syriens,Syriens,LOC,0.7,0.0,de,1
+Bezirke-Newsletter,Bezirke-Newsletter,LOC,0.0,1.0,de,1
+Bezirks,Bezirks,LOC,0.0,0.0,de,1
+Scholz,Scholz,LOC,0.0,0.0,de,1
+Kommentare</li><li,Kommentare</li><li,LOC,0.0,1.0,de,1
+Teilen</li><li,Teilen</li><li,LOC,0.0,1.0,de,1
+Genre-Ableger,Genre-Ableger,LOC,0.0,1.0,de,1
+-Junge,-Junge,LOC,0.0,0.0,de,1
+Wien,Wien,LOC,0.0,0.0,de,1
+Doms,Doms,LOC,0.0,0.0,de,1
+Oberflä…,Oberflä…,LOC,0.0,0.0,de,1
+Bezirksamt will,Bezirksamt will,LOC,0.0,0.0,de,1
+Rekordnähe,Rekordnähe,LOC,0.0,0.0,de,1
+Tälern,Tälern,LOC,0.0,0.0,de,1
+Twitter</li><li,Twitter</li><li,LOC,0.0,1.0,de,1
 Oberbayern,Oberbayern,LOC,0.0,0.0,de,1
-Berlin-Neukölln,Berlin-Neukölln,LOC,0.0,0.0,de,1
+Sturmböen,Sturmböen,LOC,-0.7,0.0,de,1
+Brandenburg,Brandenburg,LOC,0.0,0.0,de,1
+S…,S…,LOC,-0.7,0.0,de,1
+Feedback</li><li,Feedback</li><li,LOC,0.0,1.0,de,1
+Drucken</li><li,Drucken</li><li,LOC,0.0,1.0,de,1
+Stadt,Stadt,LOC,0.0,0.0,de,1
