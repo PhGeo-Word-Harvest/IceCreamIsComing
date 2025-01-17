@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Erderwärmung',de,Klima,#9e3215,#b55035,1,0.5311635554103871
+'Erderwärmung',de,Klima,#9e3215,#b55035,2,0.5018963425533745
 'Hitze',de,Sommer,#4287f5,#638ed4,3,0.279993540725437
 'Sonne',de,Sommer,#4287f5,#315fa8,3,0.2176988807338864
 'Sonnenstunden',de,Sommer,#4287f5,#3b4a63,2,0.2145385231002426
 'Hitzerekord',de,Sommer,#9e3215,#802d16,2,0.2052893993420042
-'Schatten',de,Anpassung,#9e3215,#d64118,3,0.19371126877602612
+'Schatten',de,Anpassung,#9e3215,#d64118,3,0.1937112687760261
 'Hitzetod',de,Sommer,#679e2c,#61b00c,2,0.1851555012382251
 'Eiscreme',de,Anpassung,#a89216,#87830f,1,0.1649771999313609
 'Sonnencreme',de,Anpassung,#a89216,#bfba22,2,0.1545664071111986
