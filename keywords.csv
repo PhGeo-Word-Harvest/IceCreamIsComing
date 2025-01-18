@@ -3,11 +3,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitze',de,Sommer,#4287f5,#638ed4,3,0.2611325827984396
 'Sonne',de,Sommer,#4287f5,#315fa8,3,0.2354680640783489
 'Schatten',de,Anpassung,#9e3215,#d64118,3,0.1937112687760261
-'Hitzetod',de,Sommer,#679e2c,#61b00c,2,0.1851555012382251
 'Sonnenstunden',de,Sommer,#4287f5,#3b4a63,1,0.1823581796352062
 'Hitzerekord',de,Sommer,#9e3215,#802d16,1,0.1744961094407035
 'Eiscreme',de,Anpassung,#a89216,#87830f,1,0.1649771999313609
 'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.1587723133391892
+'Hitzetod',de,Sommer,#679e2c,#61b00c,1,0.15738219105249132
 'Sonnencreme',de,Anpassung,#a89216,#bfba22,2,0.1545664071111986
 'Sommerferien',de,Schule,#4287f5,#022f78,2,0.1285837000719541
 'Siesta',de,Anpassung,#679e2c,#61d01c,1,0.117591680755027
