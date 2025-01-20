@@ -1,30 +1,47 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,0.27999999999999997,0.0,de,5
 WELT,WELT,ORG,0.5916666666666667,0.0,de,4
+Grünen,Grünen,ORG,0.25,0.0,de,4
+DWD,DWD,ORG,0.10000000000000002,0.0,de,3
+Munich Re,Munich Re,ORG,0.0,0.0,de,3
+Parker Solar Probe,Parker Solar Probe,ORG,0.0,0.0,de,3
 ARD,ARD,ORG,0.0,0.0,de,3
-SPD,SPD,ORG,0.5,0.0,de,2
-Parker Solar Probe,Parker Solar Probe,ORG,0.0,0.0,de,2
-Sat.1,Sat.1,ORG,0.35,0.0,de,2
-Grünen,Grünen,ORG,0.5,0.0,de,2
+Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-0.2333333333333333,0.0,de,3
+Partei,Partei,ORG,0.0,0.0,de,3
+Naturkatastrophenschäden,Naturkatastrophenschäden,ORG,0.0,0.0,de,3
+Oxfam,Oxfam,ORG,-0.6666666666666666,0.0,de,3
 FDP,FDP,ORG,0.5,0.0,de,2
-ZDF,ZDF,ORG,0.0,0.0,de,2
-Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,0.0,0.0,de,2
+SPD,SPD,ORG,0.5,0.0,de,2
+EU-Klimawandeldienst Copernicus,EU-Klimawandeldienst Copernicus,ORG,0.0,0.0,de,2
+Sat.1,Sat.1,ORG,0.35,0.0,de,2
 Wiener Philharmoniker,Wiener Philharmoniker,ORG,0.0,0.0,de,2
-Union,Union,ORG,0.5,0.0,de,2
-Sonne & Co.,Sonne & Co.,ORG,0.0,0.0,de,2
 Detroit Lions,Detroit Lions,ORG,0.7,0.0,de,2
-Lions,Lions,ORG,0.7,0.0,de,1
-ium,ium,ORG,0.0,0.0,de,1
+Alfred-Wegener-Instituts,Alfred-Wegener-Instituts,ORG,0.35,0.0,de,2
+Union,Union,ORG,0.5,0.0,de,2
+AWI,AWI,ORG,0.35,0.0,de,2
+ZDF,ZDF,ORG,0.0,0.0,de,2
+ÖVP,ÖVP,ORG,0.0,0.0,de,2
+Sonne & Co.,Sonne & Co.,ORG,0.0,0.0,de,2
+Australian Na…,Australian Na…,ORG,0.0,0.0,de,1
+Washington Post,Washington Post,ORG,0.0,0.0,de,1
+Climameter,Climameter,ORG,-0.7,0.0,de,1
+Aon plc,Aon plc,ORG,-0.7,0.0,de,1
 Fridays for Future,Fridays for Future,ORG,0.0,0.0,de,1
-DWD,DWD,ORG,1.0,0.0,de,1
-Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,0.0,0.0,de,1
+junge Welt,junge Welt,ORG,0.0,0.0,de,1
+Frémont-Pappel,Frémont-Pappel,ORG,0.0,0.0,de,1
 Lindt &amp,Lindt &amp,ORG,0.0,0.0,de,1
-Deutsche Segler,Deutsche Segler,ORG,0.0,0.0,de,1
-REUTERS,REUTERS,ORG,0.0,0.0,de,1
 Wirtschaftsuniversität Wien,Wirtschaftsuniversität Wien,ORG,0.0,0.0,de,1
+Samba,Samba,ORG,0.0,0.0,de,1
+EU-Progra,EU-Progra,ORG,0.0,0.0,de,1
+Deutsche Segler,Deutsche Segler,ORG,0.0,0.0,de,1
+Vonovia,Vonovia,ORG,-0.7,0.0,de,1
+FPÖ,FPÖ,ORG,0.0,0.0,de,1
+REUTERS,REUTERS,ORG,0.0,0.0,de,1
+EU-Klimaforscher,EU-Klimaforscher,ORG,0.0,0.0,de,1
+EU-Klimadienst,EU-Klimadienst,ORG,0.0,0.0,de,1
 Assads,Assads,ORG,0.0,0.0,de,1
-Smartphone-Partner,Smartphone-Partner,ORG,0.0,0.0,de,1
-Nasa-Sonde,Nasa-Sonde,ORG,0.0,0.0,de,1
-Partei,Partei,ORG,0.0,0.0,de,1
+ium,ium,ORG,0.0,0.0,de,1
+Europäischen Union,Europäischen Union,ORG,0.0,0.0,de,1
 ProSiebenSat.1,ProSiebenSat.1,ORG,0.0,0.0,de,1
 Kino-Auswertung,Kino-Auswertung,ORG,0.7,0.0,de,1
 TV,TV,ORG,0.7,0.0,de,1
@@ -32,11 +49,17 @@ ProSieben,ProSieben,ORG,0.7,0.0,de,1
 wow,wow,ORG,-0.7,0.0,de,1
 Musk,Musk,ORG,0.0,0.0,de,1
 Balkonkraftwerk,Balkonkraftwerk,ORG,0.0,0.0,de,1
-RTL,RTL,ORG,-0.7,0.0,de,1
 Shutterstock.com,Shutterstock.com,ORG,-1.0,0.0,de,1
 RX,RX,ORG,0.0,0.0,de,1
 DFK – Verband für Fach- und Führungskräfte,DFK – Verband für Fach- und Führungskräfte,ORG,0.7,0.0,de,1
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,0.7,0.0,de,1
+Lions,Lions,ORG,0.7,0.0,de,1
 Schalke Kees van ... Anschlag,Schalke Kees van ... Anschlag,ORG,0.0,0.0,de,1
 DPA,DPA,ORG,0.0,0.0,de,1
-Samba,Samba,ORG,0.0,0.0,de,1
+RTL,RTL,ORG,-0.7,0.0,de,1
+Smartphone-Partner,Smartphone-Partner,ORG,0.0,0.0,de,1
+Nasa-Sonde,Nasa-Sonde,ORG,0.0,0.0,de,1
+Instituts für Arbeitsmarkt- und Berufsforschung,Instituts für Arbeitsmarkt- und Berufsforschung,ORG,0.0,0.0,de,1
+bb,bb,ORG,0.0,0.0,de,1
+mv,mv,ORG,-0.7,0.0,de,1
+Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,0.0,0.0,de,1
+DSV-Adler,DSV-Adler,ORG,-0.2333333333333333,0.0,de,1

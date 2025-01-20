@@ -1,99 +1,174 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Weihnachten,Weihnachten,MISC,,,de,9
-Das Jahr 2024,Das Jahr 2024,MISC,,,de,7
+Das Jahr 2024,Das Jahr 2024,MISC,,,de,13
+Weihnachten,Weihnachten,MISC,,,de,12
+Gewitter im Jahr 2024,Gewitter im Jahr 2024,MISC,,,de,8
+Weniger Blitze,Weniger Blitze,MISC,,,de,7
+deutsche,deutsche,MISC,,,de,5
+römisches,römisches,MISC,,,de,5
 Google,Google,MISC,,,de,4
-Prime Video,Prime Video,MISC,,,de,3
-deutsche,deutsche,MISC,,,de,3
-ChatGPT,ChatGPT,MISC,,,de,3
+Wiener,Wiener,MISC,,,de,4
+Lesen Sie jetzt „,Lesen Sie jetzt „,MISC,,,de,3
 Hitzerekord im Jahr 2023,Hitzerekord im Jahr 2023,MISC,,,de,3
+Zeit,Zeit,MISC,,,de,3
+Vendée Globe,Vendée Globe,MISC,,,de,3
+DWD,DWD,MISC,,,de,3
+Di…,Di…,MISC,,,de,3
+Copernicus,Copernicus,MISC,,,de,3
+ChatGPT,ChatGPT,MISC,,,de,3
+Prime Video,Prime Video,MISC,,,de,3
+römische,römische,MISC,,,de,3
+Lesen Sie jetzt „Nebel und Sonne,Lesen Sie jetzt „Nebel und Sonne,MISC,,,de,2
+griechischen,griechischen,MISC,,,de,2
+Grönlands Eis,Grönlands Eis,MISC,,,de,2
+Parker Solar Probe,Parker Solar Probe,MISC,,,de,2
+Ahoi Piraten,Ahoi Piraten,MISC,,,de,2
+Survival-Spiele,Survival-Spiele,MISC,,,de,2
+DayZ,DayZ,MISC,,,de,2
+Steam,Steam,MISC,,,de,2
+Schatten über dem Arbeitsmarkt,Schatten über dem Arbeitsmarkt,MISC,,,de,2
+deutscher,deutscher,MISC,,,de,2
+Nasa,Nasa,MISC,0.0,0.0,de,2
+Deutschland Klimaflüchtenden,Deutschland Klimaflüchtenden,MISC,,,de,2
 RTL-Soap,RTL-Soap,MISC,,,de,2
-CES,CES,MISC,,,de,2
+Tag des Jahres,Tag des Jahres,MISC,,,de,2
+Die blaue Eminenz,Die blaue Eminenz,MISC,,,de,2
+Amon-Ra St. Brown,Amon-Ra St. Brown,MISC,,,de,2
+Global Water Monitor,Global Water Monitor,MISC,,,de,2
+Klima-Heldentaten,Klima-Heldentaten,MISC,,,de,2
+Home of Chocolate,Home of Chocolate,MISC,,,de,2
+Herd Deoflaschen,Herd Deoflaschen,MISC,,,de,2
+Nachrichtentag,Nachrichtentag,MISC,,,de,2
+CO2-Budget,CO2-Budget,MISC,,,de,2
+russische,russische,MISC,,,de,2
+Estnische,Estnische,MISC,,,de,2
+Santuzza,Santuzza,MISC,,,de,2
+Krieg,Krieg,MISC,,,de,2
+Lesen Sie jetzt „Statistik,Lesen Sie jetzt „Statistik,MISC,,,de,2
+österreichische,österreichische,MISC,,,de,2
+Sturzes von Assad,Sturzes von Assad,MISC,,,de,2
 Radeon-RX-8000-Serie,Radeon-RX-8000-Serie,MISC,,,de,2
 RDNA 4,RDNA 4,MISC,,,de,2
-Home of Chocolate,Home of Chocolate,MISC,,,de,2
-Amon-Ra St. Brown,Amon-Ra St. Brown,MISC,,,de,2
-deutscher,deutscher,MISC,,,de,2
-Krieg,Krieg,MISC,,,de,2
-römisches,römisches,MISC,,,de,2
-deutschen,deutschen,MISC,,,de,2
-Wiener,Wiener,MISC,,,de,2
-Steam,Steam,MISC,,,de,2
-DayZ,DayZ,MISC,,,de,2
-Survival-Spiele,Survival-Spiele,MISC,,,de,2
-Nasa,Nasa,MISC,0.0,0.0,de,2
 AMD,AMD,MISC,,,de,2
-Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,2
-europäische,europäische,MISC,,,de,2
-Sturzes von Assad,Sturzes von Assad,MISC,,,de,2
+deutschen,deutschen,MISC,,,de,2
 Der letzte Bulle,Der letzte Bulle,MISC,,,de,2
-Estnische,Estnische,MISC,,,de,2
-russische,russische,MISC,,,de,2
-Parker Solar Probe,Parker Solar Probe,MISC,,,de,2
-Blitz,Blitz,MISC,,,de,1
+CES,CES,MISC,,,de,2
+amerikanischen,amerikanischen,MISC,,,de,2
+europäische,europäische,MISC,,,de,2
+Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,2
+Vendée Globe Race,Vendée Globe Race,MISC,,,de,1
+Das Jahr,Das Jahr,MISC,,,de,1
 Lesen Sie jetzt „Report,Lesen Sie jetzt „Report,MISC,,,de,1
-Schatten über dem Arbeitsmarkt,Schatten über dem Arbeitsmarkt,MISC,,,de,1
-Donner,Donner,MISC,,,de,1
+Pariser Klimaabkommens,Pariser Klimaabkommens,MISC,,,de,1
+Sora,Sora,MISC,,,de,1
+Jahr k…,Jahr k…,MISC,,,de,1
+Klimaextreme,Klimaextreme,MISC,,,de,1
 Im Jahr 2024,Im Jahr 2024,MISC,,,de,1
-DWD,DWD,MISC,,,de,1
+iOS,iOS,MISC,,,de,1
+iPadOS,iPadOS,MISC,,,de,1
+Munich Re,Munich Re,MISC,,,de,1
+Sturm,Sturm,MISC,,,de,1
+Sonnen-Rückstra,Sonnen-Rückstra,MISC,,,de,1
+Donner,Donner,MISC,,,de,1
+Blitz,Blitz,MISC,,,de,1
+API,API,MISC,,,de,1
+macOS,macOS,MISC,,,de,1
+Zürcher,Zürcher,MISC,,,de,1
+Kinder und Jugendliche,Kinder und Jugendliche,MISC,,,de,1
+Klima-Fakten,Klima-Fakten,MISC,,,de,1
+Sampiyonlar,Sampiyonlar,MISC,,,de,1
+Grünen-Kandidat,Grünen-Kandidat,MISC,,,de,1
+Jubel-Auftritt,Jubel-Auftritt,MISC,,,de,1
+Habecks Schattenboxen,Habecks Schattenboxen,MISC,,,de,1
+Limo-Flasche,Limo-Flasche,MISC,,,de,1
+Klimaschäden,Klimaschäden,MISC,,,de,1
+EU-Klimawandeldiensts Copernicus,EU-Klimawandeldiensts Copernicus,MISC,,,de,1
+Monat im Jahr 2024,Monat im Jahr 2024,MISC,,,de,1
+finanziel,finanziel,MISC,,,de,1
+IMAGO,IMAGO,MISC,,,de,1
+republikanische,republikanische,MISC,,,de,1
+Vegetat…,Vegetat…,MISC,,,de,1
+Temperaturrekorden,Temperaturrekorden,MISC,,,de,1
+britisches,britisches,MISC,,,de,1
+Doppelabend,Doppelabend,MISC,,,de,1
+Bajazzo,Bajazzo,MISC,,,de,1
+Lesen Sie jetzt „Woche,Lesen Sie jetzt „Woche,MISC,,,de,1
+Lesen Sie jetzt „Wald,Lesen Sie jetzt „Wald,MISC,,,de,1
 Kinderhaut schützen - Sonnenallergie bei Babys und Kleinkindern,Kinderhaut schützen - Sonnenallergie bei Babys und Kleinkindern,MISC,,,de,1
+Lesen Sie jetzt „Sonne und Frost,Lesen Sie jetzt „Sonne und Frost,MISC,,,de,1
+Frost,Frost,MISC,,,de,1
 polnische,polnische,MISC,,,de,1
 Dortmunder,Dortmunder,MISC,,,de,1
 Australian Open,Australian Open,MISC,0.0,0.0,de,1
-nasses Jahr,nasses Jahr,MISC,,,de,1
 Niemeier-Match,Niemeier-Match,MISC,,,de,1
-CO2-Emissionen,CO2-Emissionen,MISC,,,de,1
-Kohle-Aus,Kohle-Aus,MISC,,,de,1
-Sieben bahnbrechende Klima-Trends,Sieben bahnbrechende Klima-Trends,MISC,,,de,1
-ZIB2,ZIB2,MISC,,,de,1
-Die neuesten Zahlen,Die neuesten Zahlen,MISC,,,de,1
-Hand aufs Herz,Hand aufs Herz,MISC,,,de,1
-Vendée Globe,Vendée Globe,MISC,,,de,1
-Somiedo Nation…,Somiedo Nation…,MISC,,,de,1
-Statement-Sieg,Statement-Sieg,MISC,,,de,1
-CO2-Fußabdruck,CO2-Fußabdruck,MISC,,,de,1
-Ein Krieg,Ein Krieg,MISC,,,de,1
-Sturm,Sturm,MISC,,,de,1
-Sampiyonlar,Sampiyonlar,MISC,,,de,1
-Klima-Fakten,Klima-Fakten,MISC,,,de,1
-Kinder und Jugendliche,Kinder und Jugendliche,MISC,,,de,1
-Zürcher,Zürcher,MISC,,,de,1
-Vendée Globe Race,Vendée Globe Race,MISC,,,de,1
-Weihnachtsfest,Weihnachtsfest,MISC,,,de,1
-mittelalterlichen,mittelalterlichen,MISC,,,de,1
-amerikanischen,amerikanischen,MISC,,,de,1
-EOL,EOL,MISC,,,de,1
-AMD Radeon RX 7900,AMD Radeon RX 7900,MISC,,,de,1
-Paris-Goldgewinner,Paris-Goldgewinner,MISC,,,de,1
-T…,T…,MISC,,,de,1
-Weltkriegs,Weltkriegs,MISC,,,de,1
-Viren,Viren,MISC,,,de,1
-Elon Musk,Elon Musk,MISC,,,de,1
-Berliner,Berliner,MISC,,,de,1
-griechischen,griechischen,MISC,,,de,1
-macOS,macOS,MISC,,,de,1
-iPadOS,iPadOS,MISC,,,de,1
-iOS,iOS,MISC,,,de,1
-Sora,Sora,MISC,,,de,1
-API,API,MISC,,,de,1
-KI-Siesta,KI-Siesta,MISC,,,de,1
 ProSiebenSat.1,ProSiebenSat.1,MISC,,,de,1
+Ein Krieg,Ein Krieg,MISC,,,de,1
+ZIB2,ZIB2,MISC,,,de,1
+CO2-Fußabdruck,CO2-Fußabdruck,MISC,,,de,1
+Die neuesten Zahlen,Die neuesten Zahlen,MISC,,,de,1
+stern+statt,stern+statt,MISC,,,de,1
+Stern plusZugang,Stern plusZugang,MISC,,,de,1
+KI-Siesta,KI-Siesta,MISC,,,de,1
+Extremwetter häufen s…,Extremwetter häufen s…,MISC,,,de,1
+Statement-Sieg,Statement-Sieg,MISC,,,de,1
+Berliner,Berliner,MISC,,,de,1
+Kein Wunder,Kein Wunder,MISC,,,de,1
+Chinesische,Chinesische,MISC,,,de,1
+chinesischen,chinesischen,MISC,,,de,1
+mittelalterlichen,mittelalterlichen,MISC,,,de,1
+Lesen Sie jetzt „Gegen Hitze,Lesen Sie jetzt „Gegen Hitze,MISC,,,de,1
 Radeon RX 7900 GRE,Radeon RX 7900 GRE,MISC,,,de,1
+Pariser Klimakonferenz,Pariser Klimakonferenz,MISC,,,de,1
+Gr,Gr,MISC,,,de,1
 Bundestagswahl 2025 - Merz,Bundestagswahl 2025 - Merz,MISC,,,de,1
+me…,me…,MISC,,,de,1
+Lesen Sie jetzt „Sonde passiert Sonne,Lesen Sie jetzt „Sonde passiert Sonne,MISC,,,de,1
+Rekord im All,Rekord im All,MISC,,,de,1
+Early Access,Early Access,MISC,,,de,1
 Bundestagswahl 2025,Bundestagswahl 2025,MISC,,,de,1
 E-Mail</li><li,E-Mail</li><li,MISC,,,de,1
-Lesen Sie jetzt „Gegen Hitze,Lesen Sie jetzt „Gegen Hitze,MISC,,,de,1
-me…,me…,MISC,,,de,1
-Early Access,Early Access,MISC,,,de,1
-britischen,britischen,MISC,,,de,1
+Mehr</li><li,Mehr</li><li,MISC,,,de,1
+Lesen Sie jetzt „Wetter,Lesen Sie jetzt „Wetter,MISC,,,de,1
+Weihnachtsfest,Weihnachtsfest,MISC,,,de,1
 Deutschen,Deutschen,MISC,,,de,1
 Fest,Fest,MISC,,,de,1
 Dunkler Schatten,Dunkler Schatten,MISC,,,de,1
-Android,Android,MISC,,,de,1
-Rendezvous an Weihnachten,Rendezvous an Weihnachten,MISC,,,de,1
-Jahr e…,Jahr e…,MISC,,,de,1
-Kein Wunder,Kein Wunder,MISC,,,de,1
-Von weißen Weihnachten,Von weißen Weihnachten,MISC,,,de,1
-Ungemütliches,Ungemütliches,MISC,,,de,1
+Phoenix,Phoenix,MISC,0.0,0.0,de,1
 Debatte um Spitzenduelle,Debatte um Spitzenduelle,MISC,,,de,1
-Mehr</li><li,Mehr</li><li,MISC,,,de,1
-Lesen Sie jetzt „Wald,Lesen Sie jetzt „Wald,MISC,,,de,1
+Android,Android,MISC,,,de,1
+Ungemütliches,Ungemütliches,MISC,,,de,1
+Rendezvous an Weihnachten,Rendezvous an Weihnachten,MISC,,,de,1
+Von weißen Weihnachten,Von weißen Weihnachten,MISC,,,de,1
+Abtreibung über K,Abtreibung über K,MISC,,,de,1
+Weihnachtszeit,Weihnachtszeit,MISC,,,de,1
+Yule-Box |,Yule-Box |,MISC,,,de,1
+Lesen Sie jetzt „Sonne,Lesen Sie jetzt „Sonne,MISC,,,de,1
+Kipppunkte,Kipppunkte,MISC,,,de,1
+Lesen Sie jetzt „Letzte Dezembertage,Lesen Sie jetzt „Letzte Dezembertage,MISC,,,de,1
+T…,T…,MISC,,,de,1
+Jahr e…,Jahr e…,MISC,,,de,1
+Solo-Weltumsegelung,Solo-Weltumsegelung,MISC,,,de,1
+Somiedo Nation…,Somiedo Nation…,MISC,,,de,1
+Das Jahr 1975,Das Jahr 1975,MISC,,,de,1
+Elon Musk,Elon Musk,MISC,,,de,1
+Hand aufs Herz,Hand aufs Herz,MISC,,,de,1
+Sieben bahnbrechende Klima-Trends,Sieben bahnbrechende Klima-Trends,MISC,,,de,1
+Kohle-Aus,Kohle-Aus,MISC,,,de,1
+CO2-Emissionen,CO2-Emissionen,MISC,,,de,1
+Viren,Viren,MISC,,,de,1
+Weltkriegs,Weltkriegs,MISC,,,de,1
+Hanse,Hanse,MISC,,,de,1
+Putins Schatten,Putins Schatten,MISC,,,de,1
+EOL,EOL,MISC,,,de,1
+nasses Jahr,nasses Jahr,MISC,,,de,1
+Paris-Goldgewinner,Paris-Goldgewinner,MISC,,,de,1
+Flucht in die Sonne,Flucht in die Sonne,MISC,,,de,1
+Tödlicher Wirbelsturm,Tödlicher Wirbelsturm,MISC,,,de,1
+Wind,Wind,MISC,,,de,1
+Mehr a…,Mehr a…,MISC,,,de,1
+zeh…,zeh…,MISC,,,de,1
+britischen,britischen,MISC,,,de,1
+Lesen Sie jetzt „Erste Analysen,Lesen Sie jetzt „Erste Analysen,MISC,,,de,1
+französischen,französischen,MISC,,,de,1
+AMD Radeon RX 7900,AMD Radeon RX 7900,MISC,,,de,1
+Lesen Sie jetzt „Prognose: Arbeitslosigkeit,Lesen Sie jetzt „Prognose: Arbeitslosigkeit,MISC,,,de,1
+Reich der Mitte,Reich der Mitte,MISC,,,de,1
