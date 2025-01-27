@@ -1,133 +1,184 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Berlin,Berlin,LOC,-0.04666666666666666,0.0,de,15
-Deutschland,Deutschland,LOC,0.1458333333333333,0.125,de,12
-Brandenburg,Brandenburg,LOC,-0.06999999999999999,0.0,de,10
+Berlin,Berlin,LOC,-0.007692307692307691,0.019230769230769232,de,26
+Brandenburg,Brandenburg,LOC,-0.04666666666666666,0.0,de,15
+Deutschland,Deutschland,LOC,0.16153846153846155,0.15384615384615385,de,13
+Erde,Erde,LOC,-0.16666666666666666,0.16666666666666666,de,12
+Sachsen,Sachsen,LOC,-0.08333333333333331,0.05555555555555555,de,9
 Ibiza,Ibiza,LOC,0.15555555555555556,0.0,de,9
 Athen,Athen,LOC,-0.2222222222222222,0.0,de,9
-Erde,Erde,LOC,0.0,0.25,de,8
+Australian Open,Australian Open,LOC,0.008333333333333331,0.20833333333333331,de,8
+Los Angeles,Los Angeles,LOC,0.125,0.125,de,8
 Niedersachsen,Niedersachsen,LOC,-0.21875,0.6875,de,8
 Ostsee,Ostsee,LOC,0.0,0.0,de,7
-Sachsen,Sachsen,LOC,-0.29166666666666663,0.08333333333333333,de,6
+Thüringen,Thüringen,LOC,0.16666666666666666,0.0,de,6
+Hessen,Hessen,LOC,-0.11666666666666665,0.0,de,6
+Deutschlands,Deutschlands,LOC,-0.225,0.16666666666666666,de,6
+NRW,NRW,LOC,0.0,0.3333333333333333,de,6
+USA,USA,LOC,-0.12499999999999999,0.08333333333333333,de,6
+Sachsen-Anhalt,Sachsen-Anhalt,LOC,0.12,0.16666666666666666,de,5
+Pariser,Pariser,LOC,-0.41999999999999993,0.0,de,5
+Bayern,Bayern,LOC,0.27999999999999997,0.0,de,5
+Türkei,Türkei,LOC,0.0,0.2,de,5
 Magdeburg,Magdeburg,LOC,-0.2,0.0,de,5
-Los Angeles,Los Angeles,LOC,0.0,0.0,de,5
-Formentera,Formentera,LOC,0.0,0.0,de,4
-Deutschlands,Deutschlands,LOC,-0.3375,0.25,de,4
-Lübeck,Lübeck,LOC,-0.5,0.0,de,4
+Melbourne,Melbourne,LOC,0.13333333333333336,0.13333333333333333,de,5
 Island,Island,LOC,0.175,0.0,de,4
-Griechen,Griechen,LOC,0.2333333333333333,0.4444444444444444,de,3
-Thüringen,Thüringen,LOC,0.3333333333333333,0.0,de,3
-Balkonkraftwerke,Balkonkraftwerke,LOC,-0.05833333333333331,0.0,de,3
-Rekordnähe,Rekordnähe,LOC,0.0,0.0,de,3
-Bangkok,Bangkok,LOC,-0.11666666666666665,0.5,de,3
-USA,USA,LOC,0.21666666666666667,0.16666666666666666,de,3
-Rocky Mountains,Rocky Mountains,LOC,0.2333333333333333,0.0,de,3
-Nasa,Nasa,LOC,0.3333333333333333,0.0,de,3
+Rekordnähe,Rekordnähe,LOC,0.0,0.0,de,4
+Sonnenschein,Sonnenschein,LOC,-0.125,0.375,de,4
+Harz,Harz,LOC,0.037500000000000006,0.5,de,4
+Formentera,Formentera,LOC,0.0,0.0,de,4
+Nasa,Nasa,LOC,0.25,0.0,de,4
+Rheinland-Pfalz,Rheinland-Pfalz,LOC,0.0,0.0,de,4
+Saarland,Saarland,LOC,0.0,0.0,de,4
+Lübeck,Lübeck,LOC,-0.5,0.0,de,4
 Monaco,Monaco,LOC,0.0,0.0,de,3
 Milliardenhöhe,Milliardenhöhe,LOC,0.2333333333333333,0.0,de,3
-Erzbischöfliche Palais,Erzbischöfliche Palais,LOC,0.5666666666666667,0.0,de,3
+Bangkok,Bangkok,LOC,-0.11666666666666665,0.5,de,3
+Schattenflotte,Schattenflotte,LOC,-0.6666666666666666,0.0,de,3
+China,China,LOC,0.05000000000000001,0.0,de,3
 Dänemark,Dänemark,LOC,-0.2833333333333333,0.0,de,3
-Forscherberechnungen,Forscherberechnungen,LOC,0.0,0.0,de,2
-Wiener Stephansplatz,Wiener Stephansplatz,LOC,0.85,0.0,de,2
-Hadrianische Aquädukt,Hadrianische Aquädukt,LOC,0.0,0.0,de,2
-Sonne,Sonne,LOC,-0.35,0.0,de,2
-Silvester,Silvester,LOC,-0.7,0.0,de,2
-Bayern,Bayern,LOC,0.35,0.0,de,2
-Ortenaukreis,Ortenaukreis,LOC,-0.35,0.0,de,2
--Junge,-Junge,LOC,0.0,0.0,de,2
-Copernicus-Studie,Copernicus-Studie,LOC,0.7,0.0,de,2
-Slowenen,Slowenen,LOC,0.7,0.0,de,2
-Stadtbad Tiergarten,Stadtbad Tiergarten,LOC,0.0,0.0,de,2
-Grönland,Grönland,LOC,0.35,0.0,de,2
-Divisionstitel,Divisionstitel,LOC,0.7,0.0,de,2
-Südpolarmeer,Südpolarmeer,LOC,0.07500000000000001,0.5,de,2
-Winterfrische,Winterfrische,LOC,0.7,0.0,de,2
-Sant Antoni,Sant Antoni,LOC,0.35,0.0,de,2
-Europa,Europa,LOC,-1.0,0.0,de,2
-Baum-Pflanzungen,Baum-Pflanzungen,LOC,0.35,0.0,de,2
-Alaska,Alaska,LOC,0.35,0.0,de,2
+Philippinen,Philippinen,LOC,-0.3333333333333333,0.0,de,3
+Rocky Mountains,Rocky Mountains,LOC,0.2333333333333333,0.0,de,3
+Europas,Europas,LOC,0.0,0.0,de,3
+Mosambik,Mosambik,LOC,-0.6666666666666666,0.0,de,3
+Griechen,Griechen,LOC,0.2333333333333333,0.4444444444444444,de,3
+Erzbischöfliche Palais,Erzbischöfliche Palais,LOC,0.5666666666666667,0.0,de,3
+Balkonkraftwerke,Balkonkraftwerke,LOC,-0.05833333333333331,0.0,de,3
+Dänen,Dänen,LOC,-0.425,0.0,de,2
+L.A.,L.A.,LOC,0.0,0.0,de,2
 sin…,sin…,LOC,0.0,0.0,de,2
-Antarktis,Antarktis,LOC,0.0,0.5,de,2
 Pityusen,Pityusen,LOC,-1.0,0.0,de,2
 Außergewöhnlich,Außergewöhnlich,LOC,1.0,0.0,de,2
-Australien,Australien,LOC,0.7,0.0,de,2
-Izmir,Izmir,LOC,0.0,0.0,de,2
-Dubai,Dubai,LOC,0.0,0.0,de,2
-Kilchberg,Kilchberg,LOC,-0.35,0.0,de,2
-Amerikas,Amerikas,LOC,0.0,0.0,de,2
-Phoenix,Phoenix,LOC,0.35,0.0,de,2
-Blackrock,Blackrock,LOC,0.85,0.0,de,2
-Embargos,Embargos,LOC,0.0,0.0,de,2
-Neukölln,Neukölln,LOC,0.0,0.5,de,2
-Haus am Ring,Haus am Ring,LOC,-0.35,0.0,de,2
-Indischen Ozeans,Indischen Ozeans,LOC,0.0,1.0,de,2
-Mauritius,Mauritius,LOC,0.0,0.0,de,2
-Skifahren,Skifahren,LOC,0.0,0.0,de,2
-Liegewiese,Liegewiese,LOC,0.0,0.0,de,2
+Sant Antoni,Sant Antoni,LOC,0.35,0.0,de,2
+Zwangsabschaltungen,Zwangsabschaltungen,LOC,-0.25,0.25,de,2
+Bezirk,Bezirk,LOC,0.0,0.0,de,2
+Wörgl,Wörgl,LOC,0.0,0.0,de,2
+Südpolarmeer,Südpolarmeer,LOC,0.07500000000000001,0.5,de,2
+Westküste,Westküste,LOC,0.0,0.0,de,2
+Copernicus-Studie,Copernicus-Studie,LOC,0.7,0.0,de,2
+Nordrhein-Westfalen,Nordrhein-Westfalen,LOC,-0.7,0.0,de,2
+Chinas,Chinas,LOC,0.0,0.0,de,2
 Berlin-Mitte,Berlin-Mitte,LOC,0.0,0.0,de,2
-Wahlkampf-Modus,Wahlkampf-Modus,LOC,0.0,0.0,de,2
-Türkei,Türkei,LOC,0.0,0.0,de,2
-Bremen,Bremen,LOC,-0.7,0.0,de,2
+Liegewiese,Liegewiese,LOC,0.0,0.0,de,2
+Ortenaukreis,Ortenaukreis,LOC,-0.35,0.0,de,2
+Stadtbad Tiergarten,Stadtbad Tiergarten,LOC,0.0,0.0,de,2
+kugelsicher,kugelsicher,LOC,0.0,0.0,de,2
+Baden-Württemberg,Baden-Württemberg,LOC,-0.35,0.0,de,2
+Antarktis,Antarktis,LOC,0.0,0.5,de,2
+Kilchberg,Kilchberg,LOC,-0.35,0.0,de,2
+Haus am Ring,Haus am Ring,LOC,-0.35,0.0,de,2
 Opernzwillinge,Opernzwillinge,LOC,-0.35,0.0,de,2
-Schwarzwald,Schwarzwald,LOC,0.0,0.0,de,2
-Australian Open,Australian Open,LOC,0.0,0.5,de,2
-Schatten,Schatten,LOC,0.35,0.0,de,2
-den USA,den USA,LOC,0.7,0.0,de,2
+Dubai,Dubai,LOC,0.0,0.0,de,2
+Izmir,Izmir,LOC,0.0,0.0,de,2
+Australien,Australien,LOC,0.7,0.0,de,2
+Stadt,Stadt,LOC,0.0,0.0,de,2
+Rügen,Rügen,LOC,-1.0,0.0,de,2
+DWD,DWD,LOC,0.35,0.0,de,2
+Gewitter,Gewitter,LOC,0.0,0.0,de,2
+Grönland,Grönland,LOC,0.35,0.0,de,2
+Alaska,Alaska,LOC,0.35,0.0,de,2
+Baum-Pflanzungen,Baum-Pflanzungen,LOC,0.35,0.0,de,2
 Zakopane,Zakopane,LOC,0.7,0.0,de,2
+Blackrock,Blackrock,LOC,0.85,0.0,de,2
+Winterfrische,Winterfrische,LOC,0.7,0.0,de,2
+Divisionstitel,Divisionstitel,LOC,0.7,0.0,de,2
+Embargos,Embargos,LOC,0.0,0.0,de,2
+Europa,Europa,LOC,-1.0,0.0,de,2
+Nebel,Nebel,LOC,0.5,0.0,de,2
+Slowenen,Slowenen,LOC,0.7,0.0,de,2
+Wiener Stephansplatz,Wiener Stephansplatz,LOC,0.85,0.0,de,2
+Skifahren,Skifahren,LOC,0.0,0.0,de,2
 Bergen,Bergen,LOC,0.425,0.0,de,2
-Europas,Europas,LOC,0.0,0.0,de,2
-Australiens,Australiens,LOC,-1.0,0.0,de,1
-China,China,LOC,0.85,0.0,de,1
-Futuristisch,Futuristisch,LOC,0.0,0.0,de,1
-Stadt,Stadt,LOC,0.0,0.0,de,1
-Historisches Dubai,Historisches Dubai,LOC,0.0,0.0,de,1
-Jahrtausendealte Kiefern,Jahrtausendealte Kiefern,LOC,0.0,0.0,de,1
-Österreicher,Österreicher,LOC,-0.2333333333333333,0.0,de,1
-Beartooth Plateau,Beartooth Plateau,LOC,0.0,0.0,de,1
-Grönländern,Grönländern,LOC,-0.85,0.0,de,1
-Königreich,Königreich,LOC,0.0,0.0,de,1
-US-Bundes,US-Bundes,LOC,0.0,0.0,de,1
-Hollywood,Hollywood,LOC,0.0,0.0,de,1
-Nordrhein-Westfalen,Nordrhein-Westfalen,LOC,-0.7,0.0,de,1
-nebelig-trüb,nebelig-trüb,LOC,0.0,0.0,de,1
-Landesmuseum,Landesmuseum,LOC,-0.35,0.5,de,1
-Dänen,Dänen,LOC,-0.85,0.0,de,1
-Grönlands,Grönlands,LOC,0.0,0.0,de,1
-Staatsoper,Staatsoper,LOC,0.5,0.5,de,1
+Forscherberechnungen,Forscherberechnungen,LOC,0.0,0.0,de,2
+Mauritius,Mauritius,LOC,0.0,0.0,de,2
+Indischen Ozeans,Indischen Ozeans,LOC,0.0,1.0,de,2
+Schwarzwald,Schwarzwald,LOC,0.0,0.0,de,2
+den USA,den USA,LOC,0.7,0.0,de,2
+Linzer Hauptplatz,Linzer Hauptplatz,LOC,0.0,0.0,de,2
+Afghanistan,Afghanistan,LOC,-1.0,0.0,de,2
+Bangladesch,Bangladesch,LOC,-1.0,0.0,de,2
+Pakistan,Pakistan,LOC,-1.0,0.0,de,2
+Amerikas,Amerikas,LOC,0.0,0.0,de,2
+Bremen,Bremen,LOC,-0.7,0.0,de,2
+Hadrianische Aquädukt,Hadrianische Aquädukt,LOC,0.0,0.0,de,2
+Neukölln,Neukölln,LOC,0.0,0.5,de,2
+-Junge,-Junge,LOC,0.0,0.0,de,2
+Südbrasilien,Südbrasilien,LOC,-0.35,0.0,de,2
+Schatten,Schatten,LOC,0.35,0.0,de,2
+Silvester,Silvester,LOC,-0.7,0.0,de,2
+Sonne,Sonne,LOC,-0.35,0.0,de,2
+Phoenix,Phoenix,LOC,0.35,0.0,de,2
+Prag,Prag,LOC,0.5,0.0,de,2
+Wahlkampf-Modus,Wahlkampf-Modus,LOC,0.0,0.0,de,2
 Rio de Janeiro,Rio de Janeiro,LOC,0.0,0.0,de,1
-Wuchshüllen,Wuchshüllen,LOC,0.0,0.0,de,1
-Hongkonger Palace Museum,Hongkonger Palace Museum,LOC,0.85,0.0,de,1
-Wall Street-Banken,Wall Street-Banken,LOC,1.0,0.0,de,1
-Klimaallianzen,Klimaallianzen,LOC,0.0,0.0,de,1
-Tag am Strand,Tag am Strand,LOC,0.85,0.0,de,1
-Copernicus-Report,Copernicus-Report,LOC,0.0,0.0,de,1
-Top-Vorständen,Top-Vorständen,LOC,0.0,0.0,de,1
-Pariser,Pariser,LOC,0.0,0.0,de,1
-Kyodo,Kyodo,LOC,0.0,0.0,de,1
-Baden-Württemberg,Baden-Württemberg,LOC,-0.7,0.0,de,1
-Extremwetter,Extremwetter,LOC,0.0,0.0,de,1
-Baumhasel,Baumhasel,LOC,0.0,0.0,de,1
+Rio Grande do Sul,Rio Grande do Sul,LOC,-1.0,0.0,de,1
+Tennis-Thron in Melbourne,Tennis-Thron in Melbourne,LOC,1.0,0.0,de,1
+Mondes,Mondes,LOC,0.7,0.0,de,1
 Sizilien,Sizilien,LOC,0.5,0.5,de,1
-Rheinland-Pfalz,Rheinland-Pfalz,LOC,0.0,0.0,de,1
-Saarland,Saarland,LOC,0.0,0.0,de,1
-Deodorant-Explosion,Deodorant-Explosion,LOC,-1.0,0.0,de,1
+Mond,Mond,LOC,0.0,0.0,de,1
+sim…,sim…,LOC,1.0,0.0,de,1
+Afrika,Afrika,LOC,0.0,0.0,de,1
+Staatsoper,Staatsoper,LOC,0.5,0.5,de,1
+Wuchshüllen,Wuchshüllen,LOC,0.0,0.0,de,1
+Berchtesgaden,Berchtesgaden,LOC,0.0,0.0,de,1
+München,München,LOC,0.0,1.0,de,1
+Paketposthalle,Paketposthalle,LOC,0.0,0.0,de,1
+Jennerbahn,Jennerbahn,LOC,0.0,0.0,de,1
+Rheintal,Rheintal,LOC,0.0,1.0,de,1
+Dicke Luft im Rheintal,Dicke Luft im Rheintal,LOC,-0.7,0.0,de,1
+Hochhausstopp,Hochhausstopp,LOC,-0.15000000000000002,0.0,de,1
+US-Präsidenten,US-Präsidenten,LOC,0.0,0.0,de,1
+Donaubrücke,Donaubrücke,LOC,0.0,0.0,de,1
+Baumhasel,Baumhasel,LOC,0.0,0.0,de,1
 Bezirk Mitte,Bezirk Mitte,LOC,0.0,0.0,de,1
-Fischstäbchen-Brand,Fischstäbchen-Brand,LOC,-1.0,0.0,de,1
+Unterrich,Unterrich,LOC,0.0,0.0,de,1
 Tiergarten,Tiergarten,LOC,0.0,0.0,de,1
 zurü,zurü,LOC,0.0,0.0,de,1
-Moabit,Moabit,LOC,-0.7,0.0,de,1
-Schattenflotte,Schattenflotte,LOC,0.0,0.0,de,1
-Eispanzer,Eispanzer,LOC,0.0,1.0,de,1
-Frankreich,Frankreich,LOC,0.85,0.0,de,1
+Brasilien,Brasilien,LOC,0.0,0.0,de,1
+Pazifikraum,Pazifikraum,LOC,0.0,0.0,de,1
+Jahrtausendealte Kiefern,Jahrtausendealte Kiefern,LOC,0.0,0.0,de,1
+Südostasiens,Südostasiens,LOC,0.0,0.0,de,1
+Beartooth Plateau,Beartooth Plateau,LOC,0.0,0.0,de,1
+Rhein,Rhein,LOC,-0.7,0.0,de,1
+Habt,Habt,LOC,-1.0,0.0,de,1
+Antalya,Antalya,LOC,0.0,0.0,de,1
+Berlin-Brandenburg,Berlin-Brandenburg,LOC,-0.7,0.0,de,1
+Berlin-Br,Berlin-Br,LOC,0.0,0.0,de,1
+Alanya,Alanya,LOC,0.0,0.0,de,1
+Türkische Ägäis,Türkische Ägäis,LOC,0.0,0.0,de,1
+Türkische Riviera,Türkische Riviera,LOC,0.0,1.0,de,1
+Mosel,Mosel,LOC,-0.7,0.0,de,1
+Grönländern,Grönländern,LOC,-0.85,0.0,de,1
+Saar,Saar,LOC,-0.7,0.0,de,1
+Bauchfleck,Bauchfleck,LOC,0.0,0.0,de,1
+Deutsche Wetterdienst,Deutsche Wetterdienst,LOC,0.0,1.0,de,1
+Brandenburg am Sonntag,Brandenburg am Sonntag,LOC,0.5,0.5,de,1
+Tiroler,Tiroler,LOC,0.0,0.0,de,1
+Braunlage,Braunlage,LOC,0.35,0.5,de,1
+München Wolkenkratzer,München Wolkenkratzer,LOC,0.0,0.0,de,1
+Kleopatra Beach,Kleopatra Beach,LOC,-1.0,0.0,de,1
+Willkommen,Willkommen,LOC,1.0,0.0,de,1
+Besorgniserregende,Besorgniserregende,LOC,-0.6666666666666666,0.3333333333333333,de,1
+US-Bundes,US-Bundes,LOC,0.0,0.0,de,1
+Balljunge,Balljunge,LOC,0.7,0.0,de,1
+Brand,Brand,LOC,0.0,0.0,de,1
+Oval Office,Oval Office,LOC,0.0,0.0,de,1
+Südostasien,Südostasien,LOC,-1.0,0.0,de,1
+Österreicher,Österreicher,LOC,-0.2333333333333333,0.0,de,1
+Weiße Haus Kopiere,Weiße Haus Kopiere,LOC,-0.7,0.0,de,1
+US-Präsident,US-Präsident,LOC,-0.7,0.0,de,1
+Washington,Washington,LOC,-0.7,0.0,de,1
+Grönlands,Grönlands,LOC,0.0,0.0,de,1
+Hollywood,Hollywood,LOC,0.0,0.0,de,1
+Hertha - Siesta,Hertha - Siesta,LOC,0.0,0.0,de,1
+nebelig-trüb,nebelig-trüb,LOC,0.0,0.0,de,1
+Major-Turnieren,Major-Turnieren,LOC,0.0,0.0,de,1
+Marzahn,Marzahn,LOC,0.0,0.0,de,1
+Grosses,Grosses,LOC,0.7,0.0,de,1
+London,London,LOC,-0.7,0.0,de,1
 Berlin-Neukölln,Berlin-Neukölln,LOC,0.0,0.0,de,1
-Chinas,Chinas,LOC,0.0,0.0,de,1
-Arizona,Arizona,LOC,0.7,0.0,de,1
-Fort Myers,Fort Myers,LOC,0.0,0.0,de,1
-Mayotte,Mayotte,LOC,0.0,0.0,de,1
-Indischen Ozean,Indischen Ozean,LOC,0.0,0.0,de,1
-Mosambik,Mosambik,LOC,0.0,0.0,de,1
-Scholz,Scholz,LOC,0.0,0.0,de,1
-Kommentare</li><li,Kommentare</li><li,LOC,0.0,1.0,de,1
-Teilen</li><li,Teilen</li><li,LOC,0.0,1.0,de,1
+Offenbach/Main,Offenbach/Main,LOC,0.0,0.0,de,1
+Tag am Strand,Tag am Strand,LOC,0.85,0.0,de,1
+Sich ans Meer,Sich ans Meer,LOC,-1.0,0.0,de,1
 Twitter</li><li,Twitter</li><li,LOC,0.0,1.0,de,1
 Drucken</li><li,Drucken</li><li,LOC,0.0,1.0,de,1
 Feedback</li><li,Feedback</li><li,LOC,0.0,1.0,de,1
@@ -136,34 +187,85 @@ Sturmböen,Sturmböen,LOC,-0.7,0.0,de,1
 Merry Christmarx,Merry Christmarx,LOC,-0.7,0.0,de,1
 Z,Z,LOC,-0.15000000000000002,0.0,de,1
 Oberbayern,Oberbayern,LOC,0.0,0.0,de,1
-Sanibel Island,Sanibel Island,LOC,0.0,0.0,de,1
-Fort Myers Sonne,Fort Myers Sonne,LOC,1.0,0.0,de,1
-Weihnachtstrubel,Weihnachtstrubel,LOC,1.0,0.0,de,1
-Ukraine dauerh…,Ukraine dauerh…,LOC,0.7,0.0,de,1
+Tälern,Tälern,LOC,0.0,0.0,de,1
+Arizona,Arizona,LOC,0.7,0.0,de,1
+South Mountain,South Mountain,LOC,0.0,0.0,de,1
+Genre-Ableger,Genre-Ableger,LOC,0.0,1.0,de,1
+B…,B…,LOC,0.0,0.0,de,1
+Grönländische Eisschild,Grönländische Eisschild,LOC,0.0,0.0,de,1
+Oberflä…,Oberflä…,LOC,0.0,0.0,de,1
+Österreich,Österreich,LOC,0.0,0.0,de,1
+Villa Austria Saalbach,Villa Austria Saalbach,LOC,1.0,0.0,de,1
+Doms,Doms,LOC,0.0,0.0,de,1
+Wien,Wien,LOC,0.0,0.0,de,1
+Parnitha,Parnitha,LOC,0.0,0.0,de,1
+Hannover,Hannover,LOC,0.0,0.0,de,1
+Teilen</li><li,Teilen</li><li,LOC,0.0,1.0,de,1
+Kommentare</li><li,Kommentare</li><li,LOC,0.0,1.0,de,1
+Scholz,Scholz,LOC,0.0,0.0,de,1
+Baden,Baden,LOC,0.0,0.0,de,1
 Bezirks,Bezirks,LOC,0.0,0.0,de,1
 Bezirke-Newsletter,Bezirke-Newsletter,LOC,0.0,1.0,de,1
 Syriens,Syriens,LOC,0.7,0.0,de,1
 down,down,LOC,-0.7,0.0,de,1
 Europäern,Europäern,LOC,0.0,0.0,de,1
 Ukraine,Ukraine,LOC,0.0,0.0,de,1
+Ukraine dauerh…,Ukraine dauerh…,LOC,0.7,0.0,de,1
 Amerikaner,Amerikaner,LOC,1.0,0.0,de,1
-Indonesien,Indonesien,LOC,0.0,0.0,de,1
 Mitte-rechts-Wähler,Mitte-rechts-Wähler,LOC,0.0,0.0,de,1
-Baden,Baden,LOC,0.0,0.0,de,1
 Herausforderu,Herausforderu,LOC,1.0,0.0,de,1
+Indischen Ozean,Indischen Ozean,LOC,0.0,0.0,de,1
 Bénazetsaal,Bénazetsaal,LOC,1.0,0.0,de,1
 Wetterrisiken,Wetterrisiken,LOC,-1.0,0.0,de,1
 Bandar Lampung,Bandar Lampung,LOC,0.0,0.0,de,1
-Tälern,Tälern,LOC,0.0,0.0,de,1
-South Mountain,South Mountain,LOC,0.0,0.0,de,1
-Sonnenkönig,Sonnenkönig,LOC,0.0,0.0,de,1
-Genre-Ableger,Genre-Ableger,LOC,0.0,1.0,de,1
+Indonesien,Indonesien,LOC,0.0,0.0,de,1
+Weihnachtstrubel,Weihnachtstrubel,LOC,1.0,0.0,de,1
+Fort Myers Sonne,Fort Myers Sonne,LOC,1.0,0.0,de,1
+Sanibel Island,Sanibel Island,LOC,0.0,0.0,de,1
+Fort Myers,Fort Myers,LOC,0.0,0.0,de,1
+Mayotte,Mayotte,LOC,0.0,0.0,de,1
+A…,A…,LOC,0.0,0.0,de,1
+Travemünde,Travemünde,LOC,0.0,0.0,de,1
+Sachsen-Anhalter,Sachsen-Anhalter,LOC,0.0,0.0,de,1
+Potsdam,Potsdam,LOC,0.0,0.0,de,1
+Frankreich,Frankreich,LOC,0.85,0.0,de,1
+Königreich,Königreich,LOC,0.0,0.0,de,1
 Bezirksamt will,Bezirksamt will,LOC,0.0,0.0,de,1
+Kopiere,Kopiere,LOC,-0.7,0.0,de,1
+H,H,LOC,0.0,0.0,de,1
+Offenbach am Main,Offenbach am Main,LOC,0.7,0.0,de,1
+Australiens,Australiens,LOC,-1.0,0.0,de,1
+Historisches Dubai,Historisches Dubai,LOC,0.0,0.0,de,1
+Futuristisch,Futuristisch,LOC,0.0,0.0,de,1
+Landesmuseum,Landesmuseum,LOC,-0.35,0.5,de,1
+Eispanzer,Eispanzer,LOC,0.0,1.0,de,1
+Glatteis,Glatteis,LOC,0.0,0.0,de,1
+Moabit,Moabit,LOC,-0.7,0.0,de,1
+Fischstäbchen-Brand,Fischstäbchen-Brand,LOC,-1.0,0.0,de,1
+Deodorant-Explosion,Deodorant-Explosion,LOC,-1.0,0.0,de,1
+Extremwetter,Extremwetter,LOC,0.0,0.0,de,1
+Kyodo,Kyodo,LOC,0.0,0.0,de,1
+Top-Vorständen,Top-Vorständen,LOC,0.0,0.0,de,1
+Copernicus-Report,Copernicus-Report,LOC,0.0,0.0,de,1
+Klimaallianzen,Klimaallianzen,LOC,0.0,0.0,de,1
+Wall Street-Banken,Wall Street-Banken,LOC,1.0,0.0,de,1
+Hongkonger Palace Museum,Hongkonger Palace Museum,LOC,0.85,0.0,de,1
+Sonnenkönig,Sonnenkönig,LOC,0.0,0.0,de,1
+Versailles,Versailles,LOC,0.0,0.0,de,1
+Schweden,Schweden,LOC,0.0,0.0,de,1
+MV,MV,LOC,0.0,0.0,de,1
+München/Rostock,München/Rostock,LOC,-0.7,0.0,de,1
+Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,LOC,-0.7,0.0,de,1
+Nigeria,Nigeria,LOC,-0.7,0.0,de,1
+Deutschlan,Deutschlan,LOC,0.0,0.0,de,1
+Flachs,Flachs,LOC,0.0,0.0,de,1
+Livland,Livland,LOC,0.0,0.0,de,1
 Holz,Holz,LOC,0.0,0.0,de,1
 Preußen,Preußen,LOC,0.0,0.0,de,1
-Schweden,Schweden,LOC,0.0,0.0,de,1
 Formentera Gewitter,Formentera Gewitter,LOC,0.7,0.0,de,1
+Pazifik,Pazifik,LOC,0.0,0.0,de,1
 Steigend…,Steigend…,LOC,0.0,0.0,de,1
+Wettervorhersage,Wettervorhersage,LOC,0.0,0.0,de,1
 Mareterra,Mareterra,LOC,0.0,0.0,de,1
 Meer,Meer,LOC,0.0,0.0,de,1
 Promis,Promis,LOC,0.0,0.0,de,1
@@ -171,24 +273,4 @@ FOCUS-online-Redakteurin,FOCUS-online-Redakteurin,LOC,1.0,0.0,de,1
 Vara de Rey,Vara de Rey,LOC,0.0,0.0,de,1
 Rathaus Eivissa,Rathaus Eivissa,LOC,0.0,0.0,de,1
 Südlichen Ozean,Südlichen Ozean,LOC,0.0,0.0,de,1
-Pazifik,Pazifik,LOC,0.0,0.0,de,1
-Versailles,Versailles,LOC,0.0,0.0,de,1
-Flachs,Flachs,LOC,0.0,0.0,de,1
-Deutschlan,Deutschlan,LOC,0.0,0.0,de,1
-Nigeria,Nigeria,LOC,-0.7,0.0,de,1
-Parnitha,Parnitha,LOC,0.0,0.0,de,1
-Grönländische Eisschild,Grönländische Eisschild,LOC,0.0,0.0,de,1
-Oberflä…,Oberflä…,LOC,0.0,0.0,de,1
-Österreich,Österreich,LOC,0.0,0.0,de,1
-Villa Austria Saalbach,Villa Austria Saalbach,LOC,1.0,0.0,de,1
-Doms,Doms,LOC,0.0,0.0,de,1
-Wien,Wien,LOC,0.0,0.0,de,1
-A…,A…,LOC,0.0,0.0,de,1
-Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,LOC,-0.7,0.0,de,1
-Sich ans Meer,Sich ans Meer,LOC,-1.0,0.0,de,1
-Travemünde,Travemünde,LOC,0.0,0.0,de,1
-Nebel,Nebel,LOC,1.0,0.0,de,1
-Potsdam,Potsdam,LOC,0.0,0.0,de,1
-MV,MV,LOC,0.0,0.0,de,1
-München/Rostock,München/Rostock,LOC,-0.7,0.0,de,1
-Livland,Livland,LOC,0.0,0.0,de,1
+Jennerbahn bei Berchtesgaden,Jennerbahn bei Berchtesgaden,LOC,0.15000000000000002,0.0,de,1
