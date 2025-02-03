@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonne',de,Sommer,#4287f5,#3277e5,3,0.163054596068449
 'Schatten',de,Anpassung,#87830f,#777300,3,0.1560470256775455
 'Hitze',de,Sommer,#4287f5,#3297f9,3,0.1459212220721353
-'Gewitter',de,Sommer,#4287f5,#3297e5,3,0.14456758070960374
+'Gewitter',de,Sommer,#4287f5,#3297e5,3,0.1445675807096037
 'Eiscreme',de,Anpassung,#87830f,#977300,1,0.1430809049416567
 'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.1368138145430943
 'Sonnenstunden',de,Sommer,#3277f5,#4287f9,2,0.1208687415675752
@@ -14,4 +14,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel',de,Klima,#9e3215,#ae3105,2,0.0726892126711818
 'Freibad',de,Anpassung,#87830f,#779300,2,0.0700506148856006
 'Hitzefrei',de,Schule,#40bd16,#50ad26,2,0.0664338735360857
-'Sonnenstich',de,Sommer,#4287f5,#5297e5,1,0.0414541632266136
+'Sonnenstich',de,Sommer,#4287f5,#5297e5,1,0.03523603874262156
