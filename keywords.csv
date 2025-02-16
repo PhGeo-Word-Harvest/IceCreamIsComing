@@ -9,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommerferien',de,Schule,#40bd16,#30cd06,2,0.1093117029040739
 'Eiscreme',de,Anpassung,#87830f,#977300,1,0.1029120073995675
 'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.0996805642573855
+'Hitzefrei',de,Schule,#40bd16,#50ad26,1,0.08001445236169552
 'Klimawandel',de,Klima,#9e3215,#ae3105,2,0.0726892126711818
-'Hitzefrei',de,Schule,#40bd16,#50ad26,1,0.0679579145431712
 'Freibad',de,Anpassung,#87830f,#779300,3,0.0626938326527605
 'Siesta',de,Anpassung,#87830f,#97931f,1,0.0603314068689019
 'Sonnencreme',de,Anpassung,#87830f,#77731f,1,0.0528111508023678
