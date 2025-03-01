@@ -2,9 +2,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erderwärmung',de,Klima,#9e3215,#8e4225,3,0.1740077151338798
 'Schatten',de,Anpassung,#87830f,#777300,3,0.1632501080815069
 'Hitze',de,Sommer,#4287f5,#3297f9,3,0.158397717162927
+'Klimawandel',de,Klima,#9e3215,#ae3105,3,0.15466404641307238
 'Hitzefrei',de,Schule,#40bd16,#50ad26,1,0.1409166564213531
 'Sonne',de,Sommer,#4287f5,#3277e5,3,0.1255871277148326
-'Klimawandel',de,Klima,#9e3215,#ae3105,3,0.1226457952453258
 'Sonnenstunden',de,Sommer,#3277f5,#4287f9,2,0.1176988659515507
 'Gewitter',de,Sommer,#4287f5,#3297e5,3,0.1060419577601139
 'Hitzerekord',de,Sommer,#4287f5,#5277e5,1,0.1048428906392257
