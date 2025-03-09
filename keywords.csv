@@ -3,13 +3,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erderwärmung',de,Klima,#9e3215,#8e4225,3,0.1683971270770484
 'Klimawandel',de,Klima,#9e3215,#ae3105,3,0.1584715311309539
 'Hitze',de,Sommer,#4287f5,#3297f9,3,0.1303083333617733
-'Hitzefrei',de,Schule,#40bd16,#50ad26,1,0.12212417941074177
+'Hitzefrei',de,Schule,#40bd16,#50ad26,1,0.1221241794107417
 'Sonne',de,Sommer,#4287f5,#3277e5,3,0.1208069476485168
 'Gewitter',de,Sommer,#4287f5,#3297e5,3,0.1179307695953186
 'Sonnenstunden',de,Sommer,#3277f5,#4287f9,2,0.1176988659515507
 'Sommerferien',de,Schule,#40bd16,#30cd06,3,0.0922428834834643
-'Hitzerekord',de,Sommer,#4287f5,#5277e5,1,0.0761540289868405
 'Eiscreme',de,Anpassung,#87830f,#977300,1,0.0695710246009755
+'Hitzerekord',de,Sommer,#4287f5,#5277e5,1,0.06488093963881443
 'Freibad',de,Anpassung,#87830f,#779300,3,0.0626938326527605
 'Siesta',de,Anpassung,#87830f,#97931f,1,0.0582331558036906
 'Sonnencreme',de,Anpassung,#87830f,#77731f,1,0.0426871007414678
