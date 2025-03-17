@@ -1,336 +1,480 @@
 ,phrase,label,sentiment,subjectivity,language,count
-deutsche,deutsche,MISC,,,de,20
+deutsche,deutsche,MISC,,,de,24
+Bundestagswahl,Bundestagswahl,MISC,,,de,15
+Lesen Sie jetzt „,Lesen Sie jetzt „,MISC,,,de,14
 Das Jahr 2024,Das Jahr 2024,MISC,,,de,14
 Weihnachten,Weihnachten,MISC,,,de,14
-Lesen Sie jetzt „,Lesen Sie jetzt „,MISC,,,de,11
-Bundestagswahl,Bundestagswahl,MISC,,,de,11
+DWD,DWD,MISC,-0.2583333333333333,0.0,de,12
 Zeit,Zeit,MISC,,,de,11
-DWD,DWD,MISC,-0.10999999999999999,0.0,de,10
-CES,CES,MISC,,,de,9
 Parker Solar Probe,Parker Solar Probe,MISC,,,de,9
+CES,CES,MISC,,,de,9
 Gewitter im Jahr 2024,Gewitter im Jahr 2024,MISC,,,de,8
-Weniger Blitze,Weniger Blitze,MISC,,,de,7
+Lesen Sie jetzt „Sonne,Lesen Sie jetzt „Sonne,MISC,,,de,8
+deutschen,deutschen,MISC,,,de,8
+Berliner,Berliner,MISC,,,de,7
 Hamburger,Hamburger,MISC,,,de,7
-deutschen,deutschen,MISC,,,de,7
-Lesen Sie jetzt „Sonne,Lesen Sie jetzt „Sonne,MISC,,,de,6
+Weniger Blitze,Weniger Blitze,MISC,,,de,7
 deutscher,deutscher,MISC,,,de,6
-Berliner,Berliner,MISC,,,de,6
+römisches,römisches,MISC,,,de,5
+römische,römische,MISC,,,de,5
+Wechselhaftes Wetter,Wechselhaftes Wetter,MISC,,,de,5
 Trumps,Trumps,MISC,,,de,5
 Ahoi Piraten!,Ahoi Piraten!,MISC,,,de,5
-römische,römische,MISC,,,de,5
-römisches,römisches,MISC,,,de,5
-Copernicus,Copernicus,MISC,,,de,4
-Nachrichtentag,Nachrichtentag,MISC,,,de,4
-IbizaHEUTE,IbizaHEUTE,MISC,,,de,4
-KI,KI,MISC,,,de,4
-Wiener,Wiener,MISC,,,de,4
-russische,russische,MISC,,,de,4
+Mehr</li><li,Mehr</li><li,MISC,,,de,4
 Ahoi Piraten,Ahoi Piraten,MISC,,,de,4
-Wechselhaftes Wetter,Wechselhaftes Wetter,MISC,,,de,4
+Wiener,Wiener,MISC,,,de,4
+IbizaHEUTE,IbizaHEUTE,MISC,,,de,4
+E-Mail</li><li,E-Mail</li><li,MISC,,,de,4
+Nachrichtentag,Nachrichtentag,MISC,,,de,4
+KI,KI,MISC,,,de,4
+Europameisterschaft,Europameisterschaft,MISC,,,de,4
+Krieg,Krieg,MISC,,,de,4
+Copernicus,Copernicus,MISC,,,de,4
 Google,Google,MISC,,,de,4
+russische,russische,MISC,,,de,4
+Steam,Steam,MISC,,,de,3
+Tag,Tag,MISC,,,de,3
+Münchner Sicherheitskonferenz,Münchner Sicherheitskonferenz,MISC,,,de,3
+Viertelmilliarde,Viertelmilliarde,MISC,,,de,3
+Frost,Frost,MISC,,,de,3
 Tages,Tages,MISC,,,de,3
 Hitzerekord im Jahr 2023,Hitzerekord im Jahr 2023,MISC,,,de,3
 Lesen Sie jetzt „Nebel und Sonne,Lesen Sie jetzt „Nebel und Sonne,MISC,,,de,3
-Bundestagswahl 2025,Bundestagswahl 2025,MISC,,,de,3
-Switch 2,Switch 2,MISC,,,de,3
-ATP-Turniers,ATP-Turniers,MISC,,,de,3
-Münchner Sicherheitskonferenz,Münchner Sicherheitskonferenz,MISC,,,de,3
-Pariser Klimaabkommens,Pariser Klimaabkommens,MISC,,,de,3
-Prime Video,Prime Video,MISC,,,de,3
 Vendée Globe,Vendée Globe,MISC,,,de,3
-ChatGPT,ChatGPT,MISC,,,de,3
-Di…,Di…,MISC,,,de,3
-Viertelmilliarde,Viertelmilliarde,MISC,,,de,3
-Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,3
+Deutschem Wetterdienst,Deutschem Wetterdienst,MISC,,,de,3
+Switch 2,Switch 2,MISC,,,de,3
+Pariser Klimaabkommens,Pariser Klimaabkommens,MISC,,,de,3
 Münchener,Münchener,MISC,,,de,3
-Schweizer,Schweizer,MISC,,,de,3
-brasilianischen,brasilianischen,MISC,,,de,3
 US-amerikanischen,US-amerikanischen,MISC,,,de,3
-Samstagnachmittag,Samstagnachmittag,MISC,,,de,2
+Di…,Di…,MISC,,,de,3
+Schweizer,Schweizer,MISC,,,de,3
+ATP-Turniers,ATP-Turniers,MISC,,,de,3
+brasilianischen,brasilianischen,MISC,,,de,3
+Prime Video,Prime Video,MISC,,,de,3
+Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,3
+ChatGPT,ChatGPT,MISC,,,de,3
+Rainbow Six,Rainbow Six,MISC,,,de,3
+Bundestagswahl 2025,Bundestagswahl 2025,MISC,,,de,3
+Sinners knifflige Mission,Sinners knifflige Mission,MISC,,,de,2
+Mehr Weltraumschrott:,Mehr Weltraumschrott:,MISC,,,de,2
+Schatten auf dem Mond,Schatten auf dem Mond,MISC,,,de,2
 Kölner,Kölner,MISC,,,de,2
-österreichische,österreichische,MISC,,,de,2
-Science Slam,Science Slam,MISC,,,de,2
-finanziel,finanziel,MISC,,,de,2
+Samstagnachmittag,Samstagnachmittag,MISC,,,de,2
 PS5,PS5,MISC,,,de,2
-Nasa,Nasa,MISC,0.0,0.0,de,2
-US-amerikanische,US-amerikanische,MISC,,,de,2
-CO2-Budget,CO2-Budget,MISC,,,de,2
-Global Water Monitor,Global Water Monitor,MISC,,,de,2
-Klima-Heldentaten,Klima-Heldentaten,MISC,,,de,2
-Home of Chocolate,Home of Chocolate,MISC,,,de,2
+Strandatmosphäre,Strandatmosphäre,MISC,,,de,2
+Karlsruhe,Karlsruhe,MISC,,,de,2
+Generation Z,Generation Z,MISC,,,de,2
+Touch Nature,Touch Nature,MISC,,,de,2
+SSD EX400U,SSD EX400U,MISC,,,de,2
+österreichische,österreichische,MISC,,,de,2
+USB4,USB4,MISC,,,de,2
+Energiekonferenz Ceraweek,Energiekonferenz Ceraweek,MISC,,,de,2
+The Walking Dead“-Fortsetzung,The Walking Dead“-Fortsetzung,MISC,,,de,2
+RTL+,RTL+,MISC,,,de,2
+Maggie und,Maggie und,MISC,,,de,2
+Tag über…,Tag über…,MISC,,,de,2
+Ein Sturmtief,Ein Sturmtief,MISC,,,de,2
+Plänen von Union,Plänen von Union,MISC,,,de,2
+Science Slam,Science Slam,MISC,,,de,2
+Jahr 1980,Jahr 1980,MISC,,,de,2
+finanziel,finanziel,MISC,,,de,2
+Frost und Sonne,Frost und Sonne,MISC,,,de,2
+U21-Nationaltrainer,U21-Nationaltrainer,MISC,,,de,2
 demokratischen,demokratischen,MISC,,,de,2
 Herd Deoflaschen,Herd Deoflaschen,MISC,,,de,2
+Klub-WM,Klub-WM,MISC,,,de,2
 Lesen Sie jetzt „Report,Lesen Sie jetzt „Report,MISC,,,de,2
+Nazi-Hinterlassenschaft,Nazi-Hinterlassenschaft,MISC,,,de,2
+CO2-Budget,CO2-Budget,MISC,,,de,2
 Estnische,Estnische,MISC,,,de,2
-australischen,australischen,MISC,,,de,2
-Frost und Sonne,Frost und Sonne,MISC,,,de,2
+Doppel-Whopper-Angebot,Doppel-Whopper-Angebot,MISC,,,de,2
+US-amerikanische,US-amerikanische,MISC,,,de,2
+Spiele,Spiele,MISC,,,de,2
 Australian Open,Australian Open,MISC,0.0,0.0,de,2
 Lesen Sie jetzt „Sonne und Frost,Lesen Sie jetzt „Sonne und Frost,MISC,,,de,2
 Santuzza,Santuzza,MISC,,,de,2
 Atlantic Council,Atlantic Council,MISC,,,de,2
 RTL-Dschungelcamp,RTL-Dschungelcamp,MISC,,,de,2
-Spiele,Spiele,MISC,,,de,2
+bayerischen,bayerischen,MISC,,,de,2
+australischen,australischen,MISC,,,de,2
+indischer,indischer,MISC,,,de,2
 Nature Medicine,Nature Medicine,MISC,,,de,2
-Karlsruhe,Karlsruhe,MISC,,,de,2
-alpinen Ski-Weltmeisterschaften,alpinen Ski-Weltmeisterschaften,MISC,,,de,2
-"Stürme, Überflutungen und Hitzewellen","Stürme, Überflutungen und Hitzewellen",MISC,,,de,2
-Staatszerfall,Staatszerfall,MISC,,,de,2
-BMW Vision,BMW Vision,MISC,,,de,2
-BMW i3,BMW i3,MISC,,,de,2
-nigerianischen,nigerianischen,MISC,,,de,2
-Klima-Aktivistin,Klima-Aktivistin,MISC,,,de,2
-Im Jahr 1914,Im Jahr 1914,MISC,,,de,2
-Nordische WM,Nordische WM,MISC,,,de,2
-Googles,Googles,MISC,,,de,2
-Biathlon-WM,Biathlon-WM,MISC,,,de,2
-Golfstrom-System,Golfstrom-System,MISC,,,de,2
-Britische,Britische,MISC,,,de,2
-"FAZ+ Beiträgen12,80","FAZ+ Beiträgen12,80",MISC,,,de,2
-Frankfurter,Frankfurter,MISC,,,de,2
-NGO-Lobby,NGO-Lobby,MISC,,,de,2
-James Hansen,James Hansen,MISC,,,de,2
-Das Eis am Ende der Welt schmilzt,Das Eis am Ende der Welt schmilzt,MISC,,,de,2
-britische,britische,MISC,,,de,2
-Zwei-Tore-Rückstand,Zwei-Tore-Rückstand,MISC,,,de,2
-Mann des Abends,Mann des Abends,MISC,,,de,2
-Mainzer,Mainzer,MISC,,,de,2
-"The White Lotus""-Staffel","The White Lotus""-Staffel",MISC,,,de,2
-Im Wind,Im Wind,MISC,,,de,2
-Sinners knifflige Mission,Sinners knifflige Mission,MISC,,,de,2
-Europameisterschaft,Europameisterschaft,MISC,,,de,2
-Touch Nature,Touch Nature,MISC,,,de,2
-SSD EX400U,SSD EX400U,MISC,,,de,2
-RTL+,RTL+,MISC,,,de,2
-Ein Sturmtief,Ein Sturmtief,MISC,,,de,2
 Extreme Hitze- und Dürreperioden,Extreme Hitze- und Dürreperioden,MISC,,,de,2
-chinesischen,chinesischen,MISC,,,de,2
-europäischen,europäischen,MISC,,,de,2
-Klimatote,Klimatote,MISC,,,de,2
-GPT-4,GPT-4,MISC,,,de,2
-Tag in der Arktis,Tag in der Arktis,MISC,,,de,2
-Wetterbilanz,Wetterbilanz,MISC,,,de,2
-Lange Zeit,Lange Zeit,MISC,,,de,2
-russischen Angriffskrieg,russischen Angriffskrieg,MISC,,,de,2
-russischer,russischer,MISC,,,de,2
-spanische,spanische,MISC,,,de,2
-Nachts,Nachts,MISC,,,de,2
+Im Jahr 1914,Im Jahr 1914,MISC,,,de,2
+X,X,MISC,,,de,2
 Ski-WM in Saalbach-Hinterglemm,Ski-WM in Saalbach-Hinterglemm,MISC,,,de,2
+Biathlon-WM,Biathlon-WM,MISC,,,de,2
+Googles,Googles,MISC,,,de,2
 U-21-Europameisterschaft,U-21-Europameisterschaft,MISC,,,de,2
 Strom-Überangebot,Strom-Überangebot,MISC,,,de,2
 Leserfoto des Tages,Leserfoto des Tages,MISC,,,de,2
 U 21,U 21,MISC,,,de,2
-Amon-Ra St. Brown,Amon-Ra St. Brown,MISC,,,de,2
-USB4,USB4,MISC,,,de,2
-bayerischen,bayerischen,MISC,,,de,2
-Die blaue Eminenz,Die blaue Eminenz,MISC,,,de,2
-europäische,europäische,MISC,,,de,2
-amerikanischen,amerikanischen,MISC,,,de,2
-Deutschland Klimaflüchtenden,Deutschland Klimaflüchtenden,MISC,,,de,2
-Lesen Sie jetzt „Raumsonde,Lesen Sie jetzt „Raumsonde,MISC,,,de,2
-Lesen Sie jetzt „Statistik,Lesen Sie jetzt „Statistik,MISC,,,de,2
-Schatten über dem Arbeitsmarkt,Schatten über dem Arbeitsmarkt,MISC,,,de,2
+Nordische WM,Nordische WM,MISC,,,de,2
+Im Wind,Im Wind,MISC,,,de,2
+nigerianischen,nigerianischen,MISC,,,de,2
+alpinen Ski-Weltmeisterschaften,alpinen Ski-Weltmeisterschaften,MISC,,,de,2
+"The White Lotus""-Staffel","The White Lotus""-Staffel",MISC,,,de,2
+Klima-Aktivistin,Klima-Aktivistin,MISC,,,de,2
+"Stürme, Überflutungen und Hitzewellen","Stürme, Überflutungen und Hitzewellen",MISC,,,de,2
+Champions League,Champions League,MISC,,,de,2
+Staatszerfall,Staatszerfall,MISC,,,de,2
+englischen,englischen,MISC,,,de,2
+BMW Vision,BMW Vision,MISC,,,de,2
+BMW i3,BMW i3,MISC,,,de,2
+Golfstrom-System,Golfstrom-System,MISC,,,de,2
+Nachts,Nachts,MISC,,,de,2
+spanische,spanische,MISC,,,de,2
+Britische,Britische,MISC,,,de,2
+A…,A…,MISC,0.0,0.0,de,2
+europäischen,europäischen,MISC,,,de,2
+Klimatote,Klimatote,MISC,,,de,2
+Mainzer,Mainzer,MISC,,,de,2
+Mann des Abends,Mann des Abends,MISC,,,de,2
+Zwei-Tore-Rückstand,Zwei-Tore-Rückstand,MISC,,,de,2
+britische,britische,MISC,,,de,2
+GPT-4,GPT-4,MISC,,,de,2
+Tag in der Arktis,Tag in der Arktis,MISC,,,de,2
+Das Eis am Ende der Welt schmilzt,Das Eis am Ende der Welt schmilzt,MISC,,,de,2
+Lesen Sie jetzt „Viel Sonne,Lesen Sie jetzt „Viel Sonne,MISC,,,de,2
+Wetterbilanz,Wetterbilanz,MISC,,,de,2
+James Hansen,James Hansen,MISC,,,de,2
+NGO-Lobby,NGO-Lobby,MISC,,,de,2
+Lange Zeit,Lange Zeit,MISC,,,de,2
+russischen Angriffskrieg,russischen Angriffskrieg,MISC,,,de,2
+russischer,russischer,MISC,,,de,2
+Frankfurter,Frankfurter,MISC,,,de,2
+"FAZ+ Beiträgen12,80","FAZ+ Beiträgen12,80",MISC,,,de,2
+Nasa,Nasa,MISC,0.0,0.0,de,2
+Nations League,Nations League,MISC,,,de,2
 Frieden im Jahr der Sonne,Frieden im Jahr der Sonne,MISC,,,de,2
-Grönlands Eis,Grönlands Eis,MISC,,,de,2
+Tag des Jahres,Tag des Jahres,MISC,,,de,2
+Lesen Sie jetzt „Raumsonde,Lesen Sie jetzt „Raumsonde,MISC,,,de,2
+Klima-Heldentaten,Klima-Heldentaten,MISC,,,de,2
 US-Forschern,US-Forschern,MISC,,,de,2
-Radeon-RX-8000-Serie,Radeon-RX-8000-Serie,MISC,,,de,2
-RDNA 4,RDNA 4,MISC,,,de,2
-AMD,AMD,MISC,,,de,2
+Ungemütliches,Ungemütliches,MISC,,,de,2
+Lesen Sie jetzt „Statistik,Lesen Sie jetzt „Statistik,MISC,,,de,2
+Die blaue Eminenz,Die blaue Eminenz,MISC,,,de,2
+amerikanischen,amerikanischen,MISC,,,de,2
+RTL-Soap,RTL-Soap,MISC,,,de,2
+Global Water Monitor,Global Water Monitor,MISC,,,de,2
+europäische,europäische,MISC,,,de,2
+Amon-Ra St. Brown,Amon-Ra St. Brown,MISC,,,de,2
 Rekord im All,Rekord im All,MISC,,,de,2
+Grönlands Eis,Grönlands Eis,MISC,,,de,2
+RDNA 4,RDNA 4,MISC,,,de,2
+griechischen,griechischen,MISC,,,de,2
+Radeon-RX-8000-Serie,Radeon-RX-8000-Serie,MISC,,,de,2
+chinesischen,chinesischen,MISC,,,de,2
+Deutschland Klimaflüchtenden,Deutschland Klimaflüchtenden,MISC,,,de,2
 Survival-Spiele,Survival-Spiele,MISC,,,de,2
 DayZ,DayZ,MISC,,,de,2
-Steam,Steam,MISC,,,de,2
-E-Mail</li><li,E-Mail</li><li,MISC,,,de,2
-Mehr</li><li,Mehr</li><li,MISC,,,de,2
-Ungemütliches,Ungemütliches,MISC,,,de,2
-RTL-Soap,RTL-Soap,MISC,,,de,2
-Krieg,Krieg,MISC,,,de,2
-Tag des Jahres,Tag des Jahres,MISC,,,de,2
-griechischen,griechischen,MISC,,,de,2
-Der letzte Bulle,Der letzte Bulle,MISC,,,de,2
 Sturzes von Assad,Sturzes von Assad,MISC,,,de,2
-C,C,MISC,,,de,1
-Lesen Sie jetzt „Nachhaltige Landwirtschaft,Lesen Sie jetzt „Nachhaltige Landwirtschaft,MISC,,,de,1
-Zehn Jahre später reichen,Zehn Jahre später reichen,MISC,,,de,1
-DSV-Aussich…,DSV-Aussich…,MISC,,,de,1
-Pariser Klimakonferenz,Pariser Klimakonferenz,MISC,,,de,1
-Alpine Ski-WM,Alpine Ski-WM,MISC,,,de,1
-Made in Germany,Made in Germany,MISC,,,de,1
-Lesen Sie jetzt „Etwas Sonnenschein,Lesen Sie jetzt „Etwas Sonnenschein,MISC,,,de,1
-Kohleausstiegs,Kohleausstiegs,MISC,,,de,1
-Open-Air-Musik,Open-Air-Musik,MISC,,,de,1
-KI-Siesta,KI-Siesta,MISC,,,de,1
-Nichts und niemand,Nichts und niemand,MISC,,,de,1
-Hitze im Winter,Hitze im Winter,MISC,,,de,1
-Ein mysteriöser Temperatursprung,Ein mysteriöser Temperatursprung,MISC,,,de,1
-Lesen Sie jetzt „Etwas Sonne am Wochenende,Lesen Sie jetzt „Etwas Sonne am Wochenende,MISC,,,de,1
-Ibiza-Februar,Ibiza-Februar,MISC,0.0,0.0,de,1
-Gr,Gr,MISC,,,de,1
-Die Stadt und ihre ungewisse Mauer,Die Stadt und ihre ungewisse Mauer,MISC,,,de,1
-Putins Armada,Putins Armada,MISC,,,de,1
-UNTER,UNTER,MISC,,,de,1
-Überleben in der Hitze,Überleben in der Hitze,MISC,,,de,1
-Grok3,Grok3,MISC,,,de,1
-Tag,Tag,MISC,,,de,1
-The White,The White,MISC,,,de,1
-Im Jahr 1751,Im Jahr 1751,MISC,,,de,1
-Zwiebelbauern,Zwiebelbauern,MISC,,,de,1
-Zwiebelbauern mit dem Klimawandel,Zwiebelbauern mit dem Klimawandel,MISC,,,de,1
-Der Mensch,Der Mensch,MISC,,,de,1
-chinesischem,chinesischem,MISC,,,de,1
-Lesen Sie jetzt „Klimawandel und Lösungen auf Architekturbiennale,Lesen Sie jetzt „Klimawandel und Lösungen auf Architekturbiennale,MISC,,,de,1
-Ben & Jerry's,Ben & Jerry's,MISC,,,de,1
-Klimakrieg,Klimakrieg,MISC,,,de,1
-I,I,MISC,,,de,1
-Fön,Fön,MISC,,,de,1
-"Lesen Sie jetzt „Fahrerflucht mit ""Trost-Sonne","Lesen Sie jetzt „Fahrerflucht mit ""Trost-Sonne",MISC,,,de,1
-Ski-Weltcup,Ski-Weltcup,MISC,,,de,1
-Probst Steffen Paar,Probst Steffen Paar,MISC,0.0,0.0,de,1
-Klimainitiative,Klimainitiative,MISC,,,de,1
-ZEIT,ZEIT,MISC,,,de,1
-Pre…,Pre…,MISC,,,de,1
-Radeon RX 7900 GRE,Radeon RX 7900 GRE,MISC,,,de,1
-Wettkampfs,Wettkampfs,MISC,,,de,1
-Schwarzenegger-Clan,Schwarzenegger-Clan,MISC,,,de,1
-Tag und Nacht,Tag und Nacht,MISC,,,de,1
-transatlantische,transatlantische,MISC,,,de,1
-Bundestagswahl 2025 - Merz,Bundestagswahl 2025 - Merz,MISC,,,de,1
-Das neue Claude 3.7 Sonnet von Anthropic,Das neue Claude 3.7 Sonnet von Anthropic,MISC,,,de,1
-Frostige Nächte,Frostige Nächte,MISC,,,de,1
-WM-Song,WM-Song,MISC,,,de,1
-Jahr e…,Jahr e…,MISC,,,de,1
-Ski-WM,Ski-WM,MISC,,,de,1
-Sachsen,Sachsen,MISC,0.010000000000000002,0.0,de,1
-Die neue Woche,Die neue Woche,MISC,,,de,1
-Lesen Sie jetzt „Klirrende Kälte und viel Sonne,Lesen Sie jetzt „Klirrende Kälte und viel Sonne,MISC,,,de,1
-Maximum ih… 2024,Maximum ih… 2024,MISC,,,de,1
-Lebensmittel-Messe,Lebensmittel-Messe,MISC,,,de,1
-Nebel und Sonne,Nebel und Sonne,MISC,,,de,1
-Neue Woche,Neue Woche,MISC,,,de,1
-Lesen Sie jetzt „Kaum Niederschlag - Wechsel von Sonne,Lesen Sie jetzt „Kaum Niederschlag - Wechsel von Sonne,MISC,,,de,1
-Cor,Cor,MISC,,,de,1
-Lesen Sie jetzt „Hochdruckwetter mit wenig Sonne,Lesen Sie jetzt „Hochdruckwetter mit wenig Sonne,MISC,,,de,1
-Am Insel-Wochenende,Am Insel-Wochenende,MISC,,,de,1
-Yule-Box |,Yule-Box |,MISC,,,de,1
-Win…,Win…,MISC,,,de,1
-Weihnachtszeit,Weihnachtszeit,MISC,,,de,1
-Ukrainer,Ukrainer,MISC,,,de,1
-Kein Wunder,Kein Wunder,MISC,,,de,1
-Tagsüber s…,Tagsüber s…,MISC,,,de,1
-Kurztrip in d…,Kurztrip in d…,MISC,,,de,1
-Debatte um Spitzenduelle,Debatte um Spitzenduelle,MISC,,,de,1
-EM-Quali 2027,EM-Quali 2027,MISC,,,de,1
-Deutsche U 21,Deutsche U 21,MISC,,,de,1
-Kostenlos und ohne Abo,Kostenlos und ohne Abo,MISC,,,de,1
-Coaching-Videos,Coaching-Videos,MISC,,,de,1
-BRIGITTE-Angebot,BRIGITTE-Angebot,MISC,,,de,1
-In der Nacht,In der Nacht,MISC,,,de,1
-Jahresmonat,Jahresmonat,MISC,,,de,1
-Europäische,Europäische,MISC,,,de,1
-Sacramento Mall Proposal #4,Sacramento Mall Proposal #4,MISC,,,de,1
+Der letzte Bulle,Der letzte Bulle,MISC,,,de,2
+Reich der Mitte,Reich der Mitte,MISC,,,de,2
+Schatten über dem Arbeitsmarkt,Schatten über dem Arbeitsmarkt,MISC,,,de,2
+Home of Chocolate,Home of Chocolate,MISC,,,de,2
+AMD,AMD,MISC,,,de,2
+Wettersysteme,Wettersysteme,MISC,,,de,1
+Ukraine-,Ukraine-,MISC,,,de,1
 Von weißen Weihnachten,Von weißen Weihnachten,MISC,,,de,1
-Sacramento Mall Proposal #,Sacramento Mall Proposal #,MISC,,,de,1
-Kosmos Kandinsky,Kosmos Kandinsky,MISC,,,de,1
-Mitnetz,Mitnetz,MISC,,,de,1
-ProSiebenSat.1,ProSiebenSat.1,MISC,,,de,1
-Lesen Sie jetzt „Kühle und neblige Tage – Sonnenschein am Wochenende,Lesen Sie jetzt „Kühle und neblige Tage – Sonnenschein am Wochenende,MISC,,,de,1
-Das Wetter in Bayern,Das Wetter in Bayern,MISC,,,de,1
-Im Schatten der großen Releases,Im Schatten der großen Releases,MISC,,,de,1
-Das schrumpfende Meereis,Das schrumpfende Meereis,MISC,,,de,1
-englischen,englischen,MISC,,,de,1
-BMW M3,BMW M3,MISC,,,de,1
-Die Sonne lacht,Die Sonne lacht,MISC,,,de,1
-CO₂-Speichern,CO₂-Speichern,MISC,,,de,1
-Bundestagswahl am Sonntag,Bundestagswahl am Sonntag,MISC,,,de,1
-Wahlnachlese,Wahlnachlese,MISC,,,de,1
+La cache,La cache,MISC,,,de,1
+Publisher EA,Publisher EA,MISC,,,de,1
+Jahr e…,Jahr e…,MISC,,,de,1
+Von der Kältewelle in Teilen Amerika,Von der Kältewelle in Teilen Amerika,MISC,,,de,1
+We…,We…,MISC,,,de,1
+Maximum ih… 2024,Maximum ih… 2024,MISC,,,de,1
+Kein Wunder,Kein Wunder,MISC,,,de,1
+Jahr 2000,Jahr 2000,MISC,,,de,1
+Eisschilden Grönlands,Eisschilden Grönlands,MISC,,,de,1
+Anschlag in,Anschlag in,MISC,,,de,1
+Tennis-Turnier in Rio,Tennis-Turnier in Rio,MISC,,,de,1
+Jetstream,Jetstream,MISC,,,de,1
+Winter-CSD,Winter-CSD,MISC,,,de,1
+Fachzentrums für Klimawandel Hessen,Fachzentrums für Klimawandel Hessen,MISC,,,de,1
+u…,u…,MISC,,,de,1
+Lesen Sie jetzt „Weichmacher,Lesen Sie jetzt „Weichmacher,MISC,,,de,1
 Hamburger Senat,Hamburger Senat,MISC,,,de,1
 Operation Warp Speed,Operation Warp Speed,MISC,,,de,1
-Milliardäre,Milliardäre,MISC,,,de,1
 Biathlon-WM 2025,Biathlon-WM 2025,MISC,,,de,1
-Elon Musk,Elon Musk,MISC,,,de,1
+Gr,Gr,MISC,,,de,1
 COP16,COP16,MISC,,,de,1
 italienischen,italienischen,MISC,,,de,1
+Lesen Sie jetzt „Leichter Regen und Schauer,Lesen Sie jetzt „Leichter Regen und Schauer,MISC,,,de,1
 Leak,Leak,MISC,,,de,1
-Viren,Viren,MISC,,,de,1
+Bundestagswahl 2025 - Merz,Bundestagswahl 2025 - Merz,MISC,,,de,1
 Pixel 9a,Pixel 9a,MISC,,,de,1
-iOS,iOS,MISC,,,de,1
 Bundestagswahl: Wahlnachwehen,Bundestagswahl: Wahlnachwehen,MISC,,,de,1
 Das Wetter,Das Wetter,MISC,,,de,1
-Weltkriegs,Weltkriegs,MISC,,,de,1
+Debatte um Spitzenduelle,Debatte um Spitzenduelle,MISC,,,de,1
 Ö,Ö,MISC,,,de,1
 Lesen Sie die Reaktionen der Börse,Lesen Sie die Reaktionen der Börse,MISC,,,de,1
 Dax,Dax,MISC,,,de,1
-Steigender Strombedarf,Steigender Strombedarf,MISC,,,de,1
-Klimaretter Ozean,Klimaretter Ozean,MISC,,,de,1
-Elektroauto,Elektroauto,MISC,,,de,1
-Der Schatten der Ära,Der Schatten der Ära,MISC,,,de,1
-Chat GPT,Chat GPT,MISC,,,de,1
-La grande Suff,La grande Suff,MISC,0.0,0.0,de,1
-Kein Suff für Nazis,Kein Suff für Nazis,MISC,,,de,1
-Vesuv-Ausbruch,Vesuv-Ausbruch,MISC,,,de,1
-Suffköppen,Suffköppen,MISC,,,de,1
-Swisscom-Konkurrent Sunrise,Swisscom-Konkurrent Sunrise,MISC,,,de,1
-Anreizprogramm,Anreizprogramm,MISC,,,de,1
-Telekom-Unternehmens,Telekom-Unternehmens,MISC,,,de,1
-Die Leiche im,Die Leiche im,MISC,,,de,1
-Bergstati,Bergstati,MISC,,,de,1
-iPadOS,iPadOS,MISC,,,de,1
-EU-Wahlen im Jahr 2024,EU-Wahlen im Jahr 2024,MISC,,,de,1
-Klimawandelleugnern,Klimawandelleugnern,MISC,,,de,1
-Januarmorgen,Januarmorgen,MISC,,,de,1
-Fake News,Fake News,MISC,,,de,1
-Euro,Euro,MISC,,,de,1
-Bürger,Bürger,MISC,1.0,0.0,de,1
-Alles Humbug!,Alles Humbug!,MISC,,,de,1
-macOS,macOS,MISC,,,de,1
 Pelikan Blue,Pelikan Blue,MISC,,,de,1
 Krieges,Krieges,MISC,,,de,1
 Klimawandel-Wahlempfehlung 6,Klimawandel-Wahlempfehlung 6,MISC,,,de,1
 SRF-Serie,SRF-Serie,MISC,,,de,1
 römischen,römischen,MISC,,,de,1
+AstroGeo,AstroGeo,MISC,,,de,1
+Das Kind fi…,Das Kind fi…,MISC,,,de,1
+Keynote-Veranstaltungen,Keynote-Veranstaltungen,MISC,,,de,1
 Of Modern Performance,Of Modern Performance,MISC,,,de,1
+ZEIT,ZEIT,MISC,,,de,1
+Android,Android,MISC,,,de,1
+Klimakrieg,Klimakrieg,MISC,,,de,1
+Zweiten Weltkrieg,Zweiten Weltkrieg,MISC,,,de,1
+Dresden-Gedenken,Dresden-Gedenken,MISC,0.0,0.0,de,1
+80 Jahre nach Zerstörung,80 Jahre nach Zerstörung,MISC,,,de,1
+I,I,MISC,,,de,1
+Phoenix,Phoenix,MISC,0.0,0.0,de,1
+"Lesen Sie jetzt „Fahrerflucht mit ""Trost-Sonne","Lesen Sie jetzt „Fahrerflucht mit ""Trost-Sonne",MISC,,,de,1
+Dunkler Schatten,Dunkler Schatten,MISC,,,de,1
+Probst Steffen Paar,Probst Steffen Paar,MISC,0.0,0.0,de,1
+Klimainitiative,Klimainitiative,MISC,,,de,1
+Pre…,Pre…,MISC,,,de,1
+chinesischem,chinesischem,MISC,,,de,1
+Fest,Fest,MISC,,,de,1
+Schwarzenegger-Clan,Schwarzenegger-Clan,MISC,,,de,1
+The White,The White,MISC,,,de,1
+Nichts und niemand,Nichts und niemand,MISC,,,de,1
+Überleben in der Hitze,Überleben in der Hitze,MISC,,,de,1
+Zehn Jahre später reichen,Zehn Jahre später reichen,MISC,,,de,1
+DSV-Aussich…,DSV-Aussich…,MISC,,,de,1
+Deutschen,Deutschen,MISC,,,de,1
+Alpine Ski-WM,Alpine Ski-WM,MISC,,,de,1
+Made in Germany,Made in Germany,MISC,,,de,1
+Lesen Sie jetzt „Etwas Sonnenschein,Lesen Sie jetzt „Etwas Sonnenschein,MISC,,,de,1
+Lesen Sie jetzt „Klimawandel und Lösungen auf Architekturbiennale,Lesen Sie jetzt „Klimawandel und Lösungen auf Architekturbiennale,MISC,,,de,1
+Der Mensch,Der Mensch,MISC,,,de,1
 weiterlesen auf t3n.de,weiterlesen auf t3n.de,MISC,,,de,1
+Wetterla…,Wetterla…,MISC,,,de,1
 Dunkelflauten,Dunkelflauten,MISC,0.0,0.0,de,1
 Aktuelle Nac… [+3211 chars,Aktuelle Nac… [+3211 chars,MISC,,,de,1
-Türkis-Rot-Pink,Türkis-Rot-Pink,MISC,,,de,1
 brasilianische,brasilianische,MISC,,,de,1
+Shaun of the Dead,Shaun of the Dead,MISC,,,de,1
+Bundestagswahl am Sonntag,Bundestagswahl am Sonntag,MISC,,,de,1
+Yule-Box |,Yule-Box |,MISC,,,de,1
 österreichischen,österreichischen,MISC,,,de,1
-Abtreibung über K,Abtreibung über K,MISC,,,de,1
 Brasiliens Millionenme,Brasiliens Millionenme,MISC,,,de,1
 Gefühlt 50 Grad Celsius,Gefühlt 50 Grad Celsius,MISC,,,de,1
 TOS-2,TOS-2,MISC,,,de,1
 Polarfront,Polarfront,MISC,,,de,1
-Wetterla…,Wetterla…,MISC,,,de,1
 spanischen,spanischen,MISC,,,de,1
-März,März,MISC,,,de,1
-französischen,französischen,MISC,,,de,1
-AMD Radeon RX 7900,AMD Radeon RX 7900,MISC,,,de,1
-EOL,EOL,MISC,,,de,1
-Das Kind fi…,Das Kind fi…,MISC,,,de,1
-Wettersysteme,Wettersysteme,MISC,,,de,1
-Jetstream,Jetstream,MISC,,,de,1
-La cache,La cache,MISC,,,de,1
-Winter-CSD,Winter-CSD,MISC,,,de,1
+Zwiebelbauern mit dem Klimawandel,Zwiebelbauern mit dem Klimawandel,MISC,,,de,1
+Weihnachtszeit,Weihnachtszeit,MISC,,,de,1
+Abtreibung über K,Abtreibung über K,MISC,,,de,1
+Rendezvous an Weihnachten,Rendezvous an Weihnachten,MISC,,,de,1
+Elektroauto,Elektroauto,MISC,,,de,1
+BMW M3,BMW M3,MISC,,,de,1
+Sonne am Tag,Sonne am Tag,MISC,,,de,1
+Lesen Sie jetzt „Sonne am Tag und Frost,Lesen Sie jetzt „Sonne am Tag und Frost,MISC,,,de,1
+Sonne am Tag und Frost,Sonne am Tag und Frost,MISC,,,de,1
+Nasa-Sonde kommt Sonne,Nasa-Sonde kommt Sonne,MISC,,,de,1
+Im Jahr 1751,Im Jahr 1751,MISC,,,de,1
+Zwiebelbauern,Zwiebelbauern,MISC,,,de,1
+Wahlnachlese,Wahlnachlese,MISC,,,de,1
+Euro,Euro,MISC,,,de,1
+Steigender Strombedarf,Steigender Strombedarf,MISC,,,de,1
+Ein langes Sonnenbad,Ein langes Sonnenbad,MISC,,,de,1
+Inside Südkorea,Inside Südkorea,MISC,,,de,1
+SolarFlow Hyper 2000,SolarFlow Hyper 2000,MISC,,,de,1
+Großen Hungersnot in,Großen Hungersnot in,MISC,,,de,1
+Mann auf die Sonne,Mann auf die Sonne,MISC,,,de,1
+Mehr Eis auf dem Mond,Mehr Eis auf dem Mond,MISC,,,de,1
+Deutschem Wetterdien,Deutschem Wetterdien,MISC,,,de,1
+Reasoning-Modellen,Reasoning-Modellen,MISC,,,de,1
+Reasoning-Modelle,Reasoning-Modelle,MISC,,,de,1
+Viren,Viren,MISC,,,de,1
+Lesen Sie jetzt „Nach dem Nebel,Lesen Sie jetzt „Nach dem Nebel,MISC,,,de,1
+sc…,sc…,MISC,,,de,1
+Lesen Sie jetzt „Kühlere Temperaturen,Lesen Sie jetzt „Kühlere Temperaturen,MISC,,,de,1
+The Walking,The Walking,MISC,,,de,1
+Wolken statt Sonne,Wolken statt Sonne,MISC,,,de,1
+Frühlings,Frühlings,MISC,,,de,1
+Lesen Sie jetzt „Kühler und nass - Sonne,Lesen Sie jetzt „Kühler und nass - Sonne,MISC,,,de,1
+Lesen Sie jetzt „Verbände,Lesen Sie jetzt „Verbände,MISC,,,de,1
+Weltkriegs,Weltkriegs,MISC,,,de,1
 T…,T…,MISC,,,de,1
-AstroGeo,AstroGeo,MISC,,,de,1
-u…,u…,MISC,,,de,1
-Sora,Sora,MISC,,,de,1
-Fachzentrums für Klimawandel Hessen,Fachzentrums für Klimawandel Hessen,MISC,,,de,1
-Ukraine-,Ukraine-,MISC,,,de,1
+MARKUS EBNER,MARKUS EBNER,MISC,,,de,1
+Nächste Woche,Nächste Woche,MISC,,,de,1
+Lesen Sie jetzt „Sonnenschein,Lesen Sie jetzt „Sonnenschein,MISC,,,de,1
 Paris-Goldgewinner,Paris-Goldgewinner,MISC,,,de,1
-Publisher EA,Publisher EA,MISC,,,de,1
-We…,We…,MISC,,,de,1
-API,API,MISC,,,de,1
 Flucht in die Sonne,Flucht in die Sonne,MISC,,,de,1
-Von der Kältewelle in Teilen Amerika,Von der Kältewelle in Teilen Amerika,MISC,,,de,1
-Jahr 2000,Jahr 2000,MISC,,,de,1
-Eisschilden Grönlands,Eisschilden Grönlands,MISC,,,de,1
-Tennis-Turnier in Rio,Tennis-Turnier in Rio,MISC,,,de,1
+Staatskrise im Schatten,Staatskrise im Schatten,MISC,,,de,1
+Elon Musk,Elon Musk,MISC,,,de,1
+Pariser Klimakonferenz,Pariser Klimakonferenz,MISC,,,de,1
+Lesen Sie jetzt „Viele Wolken,Lesen Sie jetzt „Viele Wolken,MISC,,,de,1
+Neue digitale Hilfe,Neue digitale Hilfe,MISC,,,de,1
+Klub-WM be…,Klub-WM be…,MISC,,,de,1
+BVB-Profi Beier,BVB-Profi Beier,MISC,,,de,1
+U21,U21,MISC,,,de,1
+ProSiebenSat.1,ProSiebenSat.1,MISC,,,de,1
+KI-Siesta,KI-Siesta,MISC,,,de,1
+Reichsparteitagsgelände,Reichsparteitagsgelände,MISC,,,de,1
+Technik-Upgrade,Technik-Upgrade,MISC,,,de,1
+API,API,MISC,,,de,1
+Sonne dran,Sonne dran,MISC,,,de,1
+Highlights am Himmel,Highlights am Himmel,MISC,,,de,1
+Sora,Sora,MISC,,,de,1
+Dead City,Dead City,MISC,,,de,1
+BASIC,BASIC,MISC,,,de,1
+iOS,iOS,MISC,,,de,1
+deutschsprachigen,deutschsprachigen,MISC,,,de,1
+Lesen Sie jetzt „Partielle Mondfinsternis,Lesen Sie jetzt „Partielle Mondfinsternis,MISC,,,de,1
+iPadOS,iPadOS,MISC,,,de,1
+S…,S…,MISC,-0.175,0.0,de,1
+Höchste Zeit,Höchste Zeit,MISC,,,de,1
+macOS,macOS,MISC,,,de,1
+Woran merkst du,Woran merkst du,MISC,,,de,1
+Volksbankenverband,Volksbankenverband,MISC,,,de,1
+The Walkin…,The Walkin…,MISC,,,de,1
 Tödlicher Wirbelsturm,Tödlicher Wirbelsturm,MISC,,,de,1
 Lesen Sie jetzt „Erste Analysen,Lesen Sie jetzt „Erste Analysen,MISC,,,de,1
-Kriegsbeginn,Kriegsbeginn,MISC,,,de,1
+Chinas Tech-Boom,Chinas Tech-Boom,MISC,,,de,1
+Telekom-Unternehmens,Telekom-Unternehmens,MISC,,,de,1
+Klimaretter Ozean,Klimaretter Ozean,MISC,,,de,1
+Januarmorgen,Januarmorgen,MISC,,,de,1
+Vesuv-Ausbruch,Vesuv-Ausbruch,MISC,,,de,1
+Grok3,Grok3,MISC,,,de,1
+Das neue Claude 3.7 Sonnet von Anthropic,Das neue Claude 3.7 Sonnet von Anthropic,MISC,,,de,1
+Chat GPT,Chat GPT,MISC,,,de,1
+La grande Suff,La grande Suff,MISC,0.0,0.0,de,1
+Kein Suff für Nazis,Kein Suff für Nazis,MISC,,,de,1
+Suffköppen,Suffköppen,MISC,,,de,1
+Swisscom-Konkurrent Sunrise,Swisscom-Konkurrent Sunrise,MISC,,,de,1
+Anreizprogramm,Anreizprogramm,MISC,,,de,1
+Die Leiche im,Die Leiche im,MISC,,,de,1
+Everybody Loves Th…,Everybody Loves Th…,MISC,,,de,1
+Bergstati,Bergstati,MISC,,,de,1
+Winter in Deutschland,Winter in Deutschland,MISC,,,de,1
+Deutscher Wetterdienst,Deutscher Wetterdienst,MISC,,,de,1
+EU-Wahlen im Jahr 2024,EU-Wahlen im Jahr 2024,MISC,,,de,1
+Klimawandelleugnern,Klimawandelleugnern,MISC,,,de,1
+Fake News,Fake News,MISC,,,de,1
+C,C,MISC,,,de,1
+Bürger,Bürger,MISC,1.0,0.0,de,1
+Alles Humbug!,Alles Humbug!,MISC,,,de,1
+Der Schatten der Ära,Der Schatten der Ära,MISC,,,de,1
+Radeon RX 7900 GRE,Radeon RX 7900 GRE,MISC,,,de,1
+CO₂-Speichern,CO₂-Speichern,MISC,,,de,1
+Milliardäre,Milliardäre,MISC,,,de,1
+Lesen Sie jetzt „Den Narren lacht die Sonne,Lesen Sie jetzt „Den Narren lacht die Sonne,MISC,,,de,1
+EOL,EOL,MISC,,,de,1
+Hochdruckeinf,Hochdruckeinf,MISC,,,de,1
+Lesen Sie jetzt „Frühling,Lesen Sie jetzt „Frühling,MISC,,,de,1
+Lesen Sie jetzt „Mehr Sonne,Lesen Sie jetzt „Mehr Sonne,MISC,,,de,1
+Lesen Sie jetzt „Strahlend blauer Himmel und Sonne,Lesen Sie jetzt „Strahlend blauer Himmel und Sonne,MISC,,,de,1
+Europäische,Europäische,MISC,,,de,1
+Lesen Sie jetzt „Sonnenschein und Temperaturen,Lesen Sie jetzt „Sonnenschein und Temperaturen,MISC,,,de,1
+transatlantische,transatlantische,MISC,,,de,1
+französischen,französischen,MISC,,,de,1
+Untreue im Urlaub,Untreue im Urlaub,MISC,,,de,1
+Lesen Sie jetzt „Bis zu 19 Grad und viel Sonnenschein im Land,Lesen Sie jetzt „Bis zu 19 Grad und viel Sonnenschein im Land,MISC,,,de,1
+Lesen Sie jetzt „Sonnenschein und Pollenflug,Lesen Sie jetzt „Sonnenschein und Pollenflug,MISC,,,de,1
+Kohleausstiegs,Kohleausstiegs,MISC,,,de,1
+Lesen Sie jetzt „Nachhaltige Landwirtschaft,Lesen Sie jetzt „Nachhaltige Landwirtschaft,MISC,,,de,1
+Wettkampfs,Wettkampfs,MISC,,,de,1
+Ski-Weltcup,Ski-Weltcup,MISC,,,de,1
+Lesen Sie jetzt „Bis zu 19 Grad und Sonnenschein,Lesen Sie jetzt „Bis zu 19 Grad und Sonnenschein,MISC,,,de,1
+Fön,Fön,MISC,,,de,1
+Ben & Jerry's,Ben & Jerry's,MISC,,,de,1
+Die Sonne lacht,Die Sonne lacht,MISC,,,de,1
+März,März,MISC,,,de,1
+Türkis-Rot-Pink,Türkis-Rot-Pink,MISC,,,de,1
+Lesen Sie jetzt „Sonne zur Fastnacht,Lesen Sie jetzt „Sonne zur Fastnacht,MISC,,,de,1
+AMD Radeon RX 7900,AMD Radeon RX 7900,MISC,,,de,1
+Open-Air-Musik,Open-Air-Musik,MISC,,,de,1
+Lesen Sie jetzt „Wetter,Lesen Sie jetzt „Wetter,MISC,,,de,1
+Hitze im Winter,Hitze im Winter,MISC,,,de,1
+Tolles Wetter,Tolles Wetter,MISC,,,de,1
+Video-Teaser,Video-Teaser,MISC,,,de,1
+Das Jahr 1975,Das Jahr 1975,MISC,,,de,1
+Nintendo Switch 2,Nintendo Switch 2,MISC,,,de,1
+Dead,Dead,MISC,,,de,1
+Nachwuchsturnier,Nachwuchsturnier,MISC,,,de,1
+Basler Tennistalent,Basler Tennistalent,MISC,,,de,1
+H…,H…,MISC,,,de,1
+Lesen Sie jetzt „Mix aus Schnee,Lesen Sie jetzt „Mix aus Schnee,MISC,,,de,1
+Somiedo Nation…,Somiedo Nation…,MISC,,,de,1
+Solo-Weltumsegelung,Solo-Weltumsegelung,MISC,,,de,1
+Angriff auf FC-Fans,Angriff auf FC-Fans,MISC,,,de,1
+Rutschen,Rutschen,MISC,,,de,1
+Die Sonne,Die Sonne,MISC,,,de,1
+Deutsche Wetterdienst Kopiere,Deutsche Wetterdienst Kopiere,MISC,,,de,1
+Lesen Sie jetzt „Viel Sonne am Wochenende,Lesen Sie jetzt „Viel Sonne am Wochenende,MISC,,,de,1
+Bädertopf,Bädertopf,MISC,,,de,1
+Lesen Sie jetzt „Nebel und Sonne am Wochenende,Lesen Sie jetzt „Nebel und Sonne am Wochenende,MISC,,,de,1
+Lesen Sie jetzt „Nebel,Lesen Sie jetzt „Nebel,MISC,,,de,1
 Chinesische,Chinesische,MISC,,,de,1
-Mars-Geschichte,Mars-Geschichte,MISC,,,de,1
-polnische,polnische,MISC,,,de,1
+IMAGO,IMAGO,MISC,,,de,1
+republikanische,republikanische,MISC,,,de,1
+KW 1,KW 1,MISC,,,de,1
+sintflutartiger Regen,sintflutartiger Regen,MISC,,,de,1
+Sonne toben Orkanböen,Sonne toben Orkanböen,MISC,,,de,1
+Nintendo-Konsole,Nintendo-Konsole,MISC,,,de,1
+YouTube-Kanal,YouTube-Kanal,MISC,,,de,1
+Hand aufs Herz,Hand aufs Herz,MISC,,,de,1
+Eine Bäuerin im Norden,Eine Bäuerin im Norden,MISC,,,de,1
+USB,USB,MISC,,,de,1
+Bundesliga-Torhüter,Bundesliga-Torhüter,MISC,,,de,1
+CO2-Emissionen,CO2-Emissionen,MISC,,,de,1
+Corsair EX400U,Corsair EX400U,MISC,,,de,1
+Lesen Sie jetzt „Nach Sonne,Lesen Sie jetzt „Nach Sonne,MISC,,,de,1
+soziale,soziale,MISC,,,de,1
+Wettbewerbs,Wettbewerbs,MISC,,,de,1
+PT5.,PT5.,MISC,,,de,1
+ATLAS,ATLAS,MISC,,,de,1
+PT5,PT5,MISC,,,de,1
+Frühlingslüftchen am Wochenende,Frühlingslüftchen am Wochenende,MISC,,,de,1
+Eine kle…,Eine kle…,MISC,,,de,1
+Kohle-Aus,Kohle-Aus,MISC,,,de,1
+Das Jahr 1910,Das Jahr 1910,MISC,,,de,1
+Die Schatten von Prag,Die Schatten von Prag,MISC,,,de,1
+Die Schatten von,Die Schatten von,MISC,,,de,1
+Fast-Heimspiel,Fast-Heimspiel,MISC,,,de,1
+Sieben bahnbrechende Klima-Trends,Sieben bahnbrechende Klima-Trends,MISC,,,de,1
+türkischen,türkischen,MISC,,,de,1
+Brandkatastrophe im Skigebiet,Brandkatastrophe im Skigebiet,MISC,,,de,1
+beispielswe…,beispielswe…,MISC,,,de,1
+Dann bist du,Dann bist du,MISC,,,de,1
+Facebook-Gruppe Amihan Women,Facebook-Gruppe Amihan Women,MISC,,,de,1
+Willkommen im neuen Jahr!,Willkommen im neuen Jahr!,MISC,,,de,1
+Statement-Sieg,Statement-Sieg,MISC,,,de,1
+Ein mysteriöser Temperatursprung,Ein mysteriöser Temperatursprung,MISC,,,de,1
+Sampiyonlar,Sampiyonlar,MISC,,,de,1
+Ein Krieg,Ein Krieg,MISC,,,de,1
+ZIB2,ZIB2,MISC,,,de,1
+CO2-Fußabdruck,CO2-Fußabdruck,MISC,,,de,1
+Die neuesten Zahlen,Die neuesten Zahlen,MISC,,,de,1
+stern+statt,stern+statt,MISC,,,de,1
+Stern plusZugang,Stern plusZugang,MISC,,,de,1
+Grünen-Kandidat,Grünen-Kandidat,MISC,,,de,1
+Extremwetter häufen s…,Extremwetter häufen s…,MISC,,,de,1
+Klimaschäden,Klimaschäden,MISC,,,de,1
+Monat im Jahr 2024,Monat im Jahr 2024,MISC,,,de,1
+EU-Klimawandeldiensts Copernicus,EU-Klimawandeldiensts Copernicus,MISC,,,de,1
+heißeste Jahr,heißeste Jahr,MISC,,,de,1
+Vegetat…,Vegetat…,MISC,,,de,1
+Das Jahr,Das Jahr,MISC,,,de,1
+Klima-Fakten,Klima-Fakten,MISC,,,de,1
+Kinder und Jugendliche,Kinder und Jugendliche,MISC,,,de,1
+Zürcher,Zürcher,MISC,,,de,1
+Im Jahr 2024,Im Jahr 2024,MISC,,,de,1
+Limo-Flasche,Limo-Flasche,MISC,,,de,1
+Lesen Sie jetzt „Graupel,Lesen Sie jetzt „Graupel,MISC,,,de,1
+Plattform X,Plattform X,MISC,,,de,1
+Munich Re,Munich Re,MISC,,,de,1
+Vendée Globe Race,Vendée Globe Race,MISC,,,de,1
+Donner,Donner,MISC,-0.7,0.0,de,1
+Jubel-Auftritt,Jubel-Auftritt,MISC,,,de,1
+Habecks Schattenboxen,Habecks Schattenboxen,MISC,,,de,1
+Das Wetter in,Das Wetter in,MISC,,,de,1
+"Lesen Sie jetzt „Hoch ""Beate","Lesen Sie jetzt „Hoch ""Beate",MISC,,,de,1
+Temperaturrekorden,Temperaturrekorden,MISC,,,de,1
+Schatten,Schatten,MISC,0.0,0.0,de,1
+britisches,britisches,MISC,,,de,1
+Doppelabend,Doppelabend,MISC,,,de,1
+Jahr k…,Jahr k…,MISC,,,de,1
+Bajazzo,Bajazzo,MISC,,,de,1
 ver…,ver…,MISC,,,de,1
 Lesen Sie jetzt „Woche,Lesen Sie jetzt „Woche,MISC,,,de,1
 Lesen Sie jetzt „Wald,Lesen Sie jetzt „Wald,MISC,,,de,1
@@ -338,185 +482,123 @@ Kinderhaut schützen - Sonnenallergie bei Babys und Kleinkindern,Kinderhaut sch�
 Siebenundzwanzigjährige,Siebenundzwanzigjährige,MISC,,,de,1
 Ein stundenlang grauer Himmel und Gewitter,Ein stundenlang grauer Himmel und Gewitter,MISC,,,de,1
 Showdown im Hochhaus-Streit,Showdown im Hochhaus-Streit,MISC,,,de,1
-zeh…,zeh…,MISC,,,de,1
-Frost,Frost,MISC,,,de,1
+Klimaextreme,Klimaextreme,MISC,,,de,1
+polnische,polnische,MISC,,,de,1
 Dortmunder,Dortmunder,MISC,,,de,1
-Mehr a…,Mehr a…,MISC,,,de,1
+Sonnen-Rückstra,Sonnen-Rückstra,MISC,,,de,1
 Niemeier-Match,Niemeier-Match,MISC,,,de,1
 Grand-Slam-Turnier des Jahres,Grand-Slam-Turnier des Jahres,MISC,,,de,1
 Australian-Open-Start,Australian-Open-Start,MISC,,,de,1
-Wind,Wind,MISC,,,de,1
+Sturm,Sturm,MISC,,,de,1
 Klima-News der Woche,Klima-News der Woche,MISC,,,de,1
 "Lesen Sie jetzt „Frost, Sonne und Wolken","Lesen Sie jetzt „Frost, Sonne und Wolken",MISC,,,de,1
-"Lesen Sie jetzt „Hoch ""Beate","Lesen Sie jetzt „Hoch ""Beate",MISC,,,de,1
-nasses Jahr,nasses Jahr,MISC,,,de,1
-Putins Schatten,Putins Schatten,MISC,,,de,1
-Bajazzo,Bajazzo,MISC,,,de,1
-Doppelabend,Doppelabend,MISC,,,de,1
-ZIB2,ZIB2,MISC,,,de,1
-IMAGO,IMAGO,MISC,,,de,1
-Tolles Wetter,Tolles Wetter,MISC,,,de,1
-Frieden,Frieden,MISC,,,de,1
-Rutschen,Rutschen,MISC,,,de,1
-Deutsche Wetterdienst Kopiere,Deutsche Wetterdienst Kopiere,MISC,,,de,1
-Lesen Sie jetzt „Viel Sonne am Wochenende,Lesen Sie jetzt „Viel Sonne am Wochenende,MISC,,,de,1
-Bädertopf,Bädertopf,MISC,,,de,1
-Lesen Sie jetzt „Nebel und Sonne am Wochenende,Lesen Sie jetzt „Nebel und Sonne am Wochenende,MISC,,,de,1
-Lesen Sie jetzt „Nebel,Lesen Sie jetzt „Nebel,MISC,,,de,1
-F…,F…,MISC,,,de,1
-republikanische,republikanische,MISC,,,de,1
-britisches,britisches,MISC,,,de,1
-Kipppunkte,Kipppunkte,MISC,,,de,1
-sintflutartiger Regen,sintflutartiger Regen,MISC,,,de,1
-Sonne toben Orkanböen,Sonne toben Orkanböen,MISC,,,de,1
-Lesen Sie jetzt „Letzte Dezembertage,Lesen Sie jetzt „Letzte Dezembertage,MISC,,,de,1
-Die Sonne,Die Sonne,MISC,,,de,1
-Vegetat…,Vegetat…,MISC,,,de,1
-Temperaturrekorden,Temperaturrekorden,MISC,,,de,1
-Schatten,Schatten,MISC,0.0,0.0,de,1
-Lesen Sie jetzt „Prognose: Arbeitslosigkeit,Lesen Sie jetzt „Prognose: Arbeitslosigkeit,MISC,,,de,1
-Ein Krieg,Ein Krieg,MISC,,,de,1
-CO2-Fußabdruck,CO2-Fußabdruck,MISC,,,de,1
-mittelalterlichen,mittelalterlichen,MISC,,,de,1
-Das Wetter in,Das Wetter in,MISC,,,de,1
-Limo-Flasche,Limo-Flasche,MISC,,,de,1
-Das Jahr 1975,Das Jahr 1975,MISC,,,de,1
-Zürcher,Zürcher,MISC,,,de,1
-Kinder und Jugendliche,Kinder und Jugendliche,MISC,,,de,1
-Klima-Fakten,Klima-Fakten,MISC,,,de,1
-Sampiyonlar,Sampiyonlar,MISC,,,de,1
-Grünen-Kandidat,Grünen-Kandidat,MISC,,,de,1
-Jubel-Auftritt,Jubel-Auftritt,MISC,,,de,1
-Habecks Schattenboxen,Habecks Schattenboxen,MISC,,,de,1
-Lesen Sie jetzt „Mix aus Schnee,Lesen Sie jetzt „Mix aus Schnee,MISC,,,de,1
-Plattform X,Plattform X,MISC,,,de,1
-Sturm,Sturm,MISC,,,de,1
-Sonnen-Rückstra,Sonnen-Rückstra,MISC,,,de,1
-Somiedo Nation…,Somiedo Nation…,MISC,,,de,1
-Klimaextreme,Klimaextreme,MISC,,,de,1
-Jahr k…,Jahr k…,MISC,,,de,1
-Solo-Weltumsegelung,Solo-Weltumsegelung,MISC,,,de,1
-Reich der Mitte,Reich der Mitte,MISC,,,de,1
-Statement-Sieg,Statement-Sieg,MISC,,,de,1
-Willkommen im neuen Jahr!,Willkommen im neuen Jahr!,MISC,,,de,1
-Lesen Sie jetzt „Graupel,Lesen Sie jetzt „Graupel,MISC,,,de,1
-X,X,MISC,,,de,1
-Die neuesten Zahlen,Die neuesten Zahlen,MISC,,,de,1
-Bundesliga-Torhüter,Bundesliga-Torhüter,MISC,,,de,1
-stern+statt,stern+statt,MISC,,,de,1
-Stern plusZugang,Stern plusZugang,MISC,,,de,1
-Hanse,Hanse,MISC,,,de,1
-Extremwetter häufen s…,Extremwetter häufen s…,MISC,,,de,1
-Klimaschäden,Klimaschäden,MISC,,,de,1
-Monat im Jahr 2024,Monat im Jahr 2024,MISC,,,de,1
-EU-Klimawandeldiensts Copernicus,EU-Klimawandeldiensts Copernicus,MISC,,,de,1
-heißeste Jahr,heißeste Jahr,MISC,,,de,1
-Das Jahr,Das Jahr,MISC,,,de,1
-CO2-Emissionen,CO2-Emissionen,MISC,,,de,1
-Keynote-Veranstaltungen,Keynote-Veranstaltungen,MISC,,,de,1
-Lesen Sie jetzt „Nach Sonne,Lesen Sie jetzt „Nach Sonne,MISC,,,de,1
-Im Jahr 2024,Im Jahr 2024,MISC,,,de,1
-Kohle-Aus,Kohle-Aus,MISC,,,de,1
-Sieben bahnbrechende Klima-Trends,Sieben bahnbrechende Klima-Trends,MISC,,,de,1
-Hand aufs Herz,Hand aufs Herz,MISC,,,de,1
-Munich Re,Munich Re,MISC,,,de,1
-Vendée Globe Race,Vendée Globe Race,MISC,,,de,1
-Donner,Donner,MISC,,,de,1
-Blitz,Blitz,MISC,,,de,1
-Angriff auf FC-Fans,Angriff auf FC-Fans,MISC,,,de,1
+Richter,Richter,MISC,,,de,1
+ORF Vorarlberg,ORF Vorarlberg,MISC,,,de,1
+Hot Yoga und Hitze-Workouts,Hot Yoga und Hitze-Workouts,MISC,,,de,1
+Neue Woche,Neue Woche,MISC,,,de,1
+Tagsüber s…,Tagsüber s…,MISC,,,de,1
+me…,me…,MISC,,,de,1
+Frostige Nächte,Frostige Nächte,MISC,,,de,1
+WM-Song,WM-Song,MISC,,,de,1
+Ski-WM,Ski-WM,MISC,,,de,1
+Lesen Sie jetzt „Klirrende Kälte und viel Sonne,Lesen Sie jetzt „Klirrende Kälte und viel Sonne,MISC,,,de,1
+Sachsen,Sachsen,MISC,0.008333333333333335,0.0,de,1
+Die neue Woche,Die neue Woche,MISC,,,de,1
 Lesen Sie jetzt „Gegen Hitze,Lesen Sie jetzt „Gegen Hitze,MISC,,,de,1
+Lebensmittel-Messe,Lebensmittel-Messe,MISC,,,de,1
+Nebel und Sonne,Nebel und Sonne,MISC,,,de,1
+Lesen Sie jetzt „Kaum Niederschlag - Wechsel von Sonne,Lesen Sie jetzt „Kaum Niederschlag - Wechsel von Sonne,MISC,,,de,1
+bayerische,bayerische,MISC,,,de,1
+Cor,Cor,MISC,,,de,1
+Lesen Sie jetzt „Hochdruckwetter mit wenig Sonne,Lesen Sie jetzt „Hochdruckwetter mit wenig Sonne,MISC,,,de,1
+Am Insel-Wochenende,Am Insel-Wochenende,MISC,,,de,1
+Win…,Win…,MISC,,,de,1
+mittelalterlichen,mittelalterlichen,MISC,,,de,1
+Ukrainer,Ukrainer,MISC,,,de,1
+Kriegsbeginn,Kriegsbeginn,MISC,,,de,1
+Mars-Geschichte,Mars-Geschichte,MISC,,,de,1
+Frieden,Frieden,MISC,,,de,1
 Warum meine Kinder,Warum meine Kinder,MISC,,,de,1
+F…,F…,MISC,,,de,1
+Kurztrip in d…,Kurztrip in d…,MISC,,,de,1
+Rendezvous mit der Sonne,Rendezvous mit der Sonne,MISC,,,de,1
+Das schrumpfende Meereis,Das schrumpfende Meereis,MISC,,,de,1
+Im Schatten der großen Releases,Im Schatten der großen Releases,MISC,,,de,1
+Lesen Sie jetzt „Etwas Sonne am Wochenende,Lesen Sie jetzt „Etwas Sonne am Wochenende,MISC,,,de,1
+Ibiza-Februar,Ibiza-Februar,MISC,0.0,0.0,de,1
+Weihnachtsfest,Weihnachtsfest,MISC,,,de,1
+Die Stadt und ihre ungewisse Mauer,Die Stadt und ihre ungewisse Mauer,MISC,,,de,1
+Putins Armada,Putins Armada,MISC,,,de,1
+UNTER,UNTER,MISC,,,de,1
+Tag und Nacht,Tag und Nacht,MISC,,,de,1
+Blitz,Blitz,MISC,,,de,1
+EM-Quali 2027,EM-Quali 2027,MISC,,,de,1
+Deutsche U 21,Deutsche U 21,MISC,,,de,1
+Kostenlos und ohne Abo,Kostenlos und ohne Abo,MISC,,,de,1
+Coaching-Videos,Coaching-Videos,MISC,,,de,1
+BRIGITTE-Angebot,BRIGITTE-Angebot,MISC,,,de,1
+In der Nacht,In der Nacht,MISC,,,de,1
+Jahresmonat,Jahresmonat,MISC,,,de,1
+Early Access,Early Access,MISC,,,de,1
+Sacramento Mall Proposal #4,Sacramento Mall Proposal #4,MISC,,,de,1
+Sacramento Mall Proposal #,Sacramento Mall Proposal #,MISC,,,de,1
+Kosmos Kandinsky,Kosmos Kandinsky,MISC,,,de,1
+Mitnetz,Mitnetz,MISC,,,de,1
+Lesen Sie jetzt „Sonde passiert Sonne,Lesen Sie jetzt „Sonde passiert Sonne,MISC,,,de,1
+Lesen Sie jetzt „Kühle und neblige Tage – Sonnenschein am Wochenende,Lesen Sie jetzt „Kühle und neblige Tage – Sonnenschein am Wochenende,MISC,,,de,1
+Das Wetter in Bayern,Das Wetter in Bayern,MISC,,,de,1
+Secret Service,Secret Service,MISC,,,de,1
+Lesen Sie jetzt „Wolken und Sonne,Lesen Sie jetzt „Wolken und Sonne,MISC,,,de,1
+Lesen Sie jetzt „Wintersonne,Lesen Sie jetzt „Wintersonne,MISC,,,de,1
 SAP zurü,SAP zurü,MISC,,,de,1
-di…,di…,MISC,0.7,0.0,de,1
-Die verheerenden Brände,Die verheerenden Brände,MISC,,,de,1
-Waldbrand-Risiko,Waldbrand-Risiko,MISC,,,de,1
-Feuer von Los Angeles,Feuer von Los Angeles,MISC,,,de,1
-World Weather Attribution-Initiative,World Weather Attribution-Initiative,MISC,,,de,1
-Durchschnittlichkeit,Durchschnittlichkeit,MISC,,,de,1
-Die Frau ohne Schatten,Die Frau ohne Schatten,MISC,,,de,1
-Sa…,Sa…,MISC,,,de,1
-World Weather Attribution,World Weather Attribution,MISC,,,de,1
-Jahr 80,Jahr 80,MISC,,,de,1
-trockenes Pf…,trockenes Pf…,MISC,,,de,1
 DAX,DAX,MISC,,,de,1
 Das Grupotel Alcudia Suite,Das Grupotel Alcudia Suite,MISC,,,de,1
 Grupotel Alcudia Suite,Grupotel Alcudia Suite,MISC,,,de,1
 chinesischer,chinesischer,MISC,,,de,1
 Dax & Co.,Dax & Co.,MISC,,,de,1
-Deutschen,Deutschen,MISC,,,de,1
+Wind,Wind,MISC,,,de,1
 RTL-Interview,RTL-Interview,MISC,,,de,1
 REISEZIELE,REISEZIELE,MISC,,,de,1
 Die tödlichen Feuer von Los Angeles,Die tödlichen Feuer von Los Angeles,MISC,,,de,1
-A…,A…,MISC,0.0,0.0,de,1
-Fest,Fest,MISC,,,de,1
+Men…,Men…,MISC,,,de,1
 DeepSeeks,DeepSeeks,MISC,,,de,1
-Android,Android,MISC,,,de,1
-Rendezvous an Weihnachten,Rendezvous an Weihnachten,MISC,,,de,1
-Secret Service,Secret Service,MISC,,,de,1
-Lesen Sie jetzt „Wolken und Sonne,Lesen Sie jetzt „Wolken und Sonne,MISC,,,de,1
-Lesen Sie jetzt „Wintersonne,Lesen Sie jetzt „Wintersonne,MISC,,,de,1
-KW 1,KW 1,MISC,,,de,1
+DeepSeek,DeepSeek,MISC,,,de,1
+Blitz-Frühling vor der Tür,Blitz-Frühling vor der Tür,MISC,,,de,1
+Blitz-Frühling,Blitz-Frühling,MISC,,,de,1
+nasses Jahr,nasses Jahr,MISC,,,de,1
+Läster-Gewitter,Läster-Gewitter,MISC,,,de,1
+Lesen Sie jetzt „Regen,Lesen Sie jetzt „Regen,MISC,,,de,1
+Putins Schatten,Putins Schatten,MISC,,,de,1
+Sommerhau,Sommerhau,MISC,,,de,1
+Sommerhaus der Stars,Sommerhaus der Stars,MISC,,,de,1
+Hanse,Hanse,MISC,,,de,1
+Das Sommerhaus der Normalos,Das Sommerhaus der Normalos,MISC,,,de,1
+Warten,Warten,MISC,,,de,1
+Jahr 80,Jahr 80,MISC,,,de,1
+World Weather Attribution,World Weather Attribution,MISC,,,de,1
+Mehr Schatten,Mehr Schatten,MISC,,,de,1
+Sa…,Sa…,MISC,,,de,1
 Wer auf dick,Wer auf dick,MISC,,,de,1
-Nasa-Sonde kommt Sonne,Nasa-Sonde kommt Sonne,MISC,,,de,1
-Lesen Sie jetzt „Viel Sonne,Lesen Sie jetzt „Viel Sonne,MISC,,,de,1
+Kipppunkte,Kipppunkte,MISC,,,de,1
+Lesen Sie jetzt „Letzte Dezembertage,Lesen Sie jetzt „Letzte Dezembertage,MISC,,,de,1
 Wetter-Rückblick,Wetter-Rückblick,MISC,0.0,0.0,de,1
 Wochene,Wochene,MISC,,,de,1
-Dunkler Schatten,Dunkler Schatten,MISC,,,de,1
-Phoenix,Phoenix,MISC,0.0,0.0,de,1
+Lesen Sie jetzt „Prognose: Arbeitslosigkeit,Lesen Sie jetzt „Prognose: Arbeitslosigkeit,MISC,,,de,1
 Alibabas,Alibabas,MISC,,,de,1
 Qwen2.5-Max,Qwen2.5-Max,MISC,,,de,1
 Lesen Sie jetzt „Wechsel aus Sonne und Wolken am Wochenende,Lesen Sie jetzt „Wechsel aus Sonne und Wolken am Wochenende,MISC,,,de,1
 Lesen Sie jetzt „Sonne-Wolken-Mix,Lesen Sie jetzt „Sonne-Wolken-Mix,MISC,,,de,1
 Lesen Sie jetzt „Zum Wochenende Mix aus Sonne und Wolken,Lesen Sie jetzt „Zum Wochenende Mix aus Sonne und Wolken,MISC,,,de,1
 Tag weite…,Tag weite…,MISC,,,de,1
-Deutschem Wetterdienst,Deutschem Wetterdienst,MISC,,,de,1
 Lesen Sie jetzt „Sonne und Wolken,Lesen Sie jetzt „Sonne und Wolken,MISC,,,de,1
-Men…,Men…,MISC,,,de,1
-DeepSeek,DeepSeek,MISC,,,de,1
-H…,H…,MISC,,,de,1
-Dann bist du,Dann bist du,MISC,,,de,1
-Lesen Sie jetzt „Sonde passiert Sonne,Lesen Sie jetzt „Sonde passiert Sonne,MISC,,,de,1
-Das Jahr 1910,Das Jahr 1910,MISC,,,de,1
-Die Schatten von Prag,Die Schatten von Prag,MISC,,,de,1
-Die Schatten von,Die Schatten von,MISC,,,de,1
-Fast-Heimspiel,Fast-Heimspiel,MISC,,,de,1
-Rendezvous mit der Sonne,Rendezvous mit der Sonne,MISC,,,de,1
-türkischen,türkischen,MISC,,,de,1
-Brandkatastrophe im Skigebiet,Brandkatastrophe im Skigebiet,MISC,,,de,1
-beispielswe…,beispielswe…,MISC,,,de,1
-Facebook-Gruppe Amihan Women,Facebook-Gruppe Amihan Women,MISC,,,de,1
-Frühlingslüftchen am Wochenende,Frühlingslüftchen am Wochenende,MISC,,,de,1
-Eine Bäuerin im Norden,Eine Bäuerin im Norden,MISC,,,de,1
-YouTube-Kanal,YouTube-Kanal,MISC,,,de,1
-Nintendo-Konsole,Nintendo-Konsole,MISC,,,de,1
-me…,me…,MISC,,,de,1
-Video-Teaser,Video-Teaser,MISC,,,de,1
-Nintendo Switch 2,Nintendo Switch 2,MISC,,,de,1
-Dead,Dead,MISC,,,de,1
-Nachwuchsturnier,Nachwuchsturnier,MISC,,,de,1
-Basler Tennistalent,Basler Tennistalent,MISC,,,de,1
-Eine kle…,Eine kle…,MISC,,,de,1
-PT5,PT5,MISC,,,de,1
-Blitz-Frühling vor der Tür,Blitz-Frühling vor der Tür,MISC,,,de,1
-bayerische,bayerische,MISC,,,de,1
-Blitz-Frühling,Blitz-Frühling,MISC,,,de,1
-Weihnachtsfest,Weihnachtsfest,MISC,,,de,1
-Lesen Sie jetzt „Wetter,Lesen Sie jetzt „Wetter,MISC,,,de,1
-Läster-Gewitter,Läster-Gewitter,MISC,,,de,1
-Lesen Sie jetzt „Regen,Lesen Sie jetzt „Regen,MISC,,,de,1
-Sommerhau,Sommerhau,MISC,,,de,1
-Sommerhaus der Stars,Sommerhaus der Stars,MISC,,,de,1
-Das Sommerhaus der Normalos,Das Sommerhaus der Normalos,MISC,,,de,1
-Warten,Warten,MISC,,,de,1
-Hot Yoga und Hitze-Workouts,Hot Yoga und Hitze-Workouts,MISC,,,de,1
-ATLAS,ATLAS,MISC,,,de,1
-ORF Vorarlberg,ORF Vorarlberg,MISC,,,de,1
-Richter,Richter,MISC,,,de,1
-USB,USB,MISC,,,de,1
+Mehr a…,Mehr a…,MISC,,,de,1
+zeh…,zeh…,MISC,,,de,1
+trockenes Pf…,trockenes Pf…,MISC,,,de,1
 britischen,britischen,MISC,,,de,1
-Early Access,Early Access,MISC,,,de,1
-Corsair EX400U,Corsair EX400U,MISC,,,de,1
-soziale,soziale,MISC,,,de,1
-Wettbewerbs,Wettbewerbs,MISC,,,de,1
-PT5.,PT5.,MISC,,,de,1
-Mehr Schatten,Mehr Schatten,MISC,,,de,1
+Die verheerenden Brände,Die verheerenden Brände,MISC,,,de,1
+Waldbrand-Risiko,Waldbrand-Risiko,MISC,,,de,1
+Feuer von Los Angeles,Feuer von Los Angeles,MISC,,,de,1
+World Weather Attribution-Initiative,World Weather Attribution-Initiative,MISC,,,de,1
+Durchschnittlichkeit,Durchschnittlichkeit,MISC,,,de,1
+Die Frau ohne Schatten,Die Frau ohne Schatten,MISC,,,de,1
+di…,di…,MISC,0.7,0.0,de,1
