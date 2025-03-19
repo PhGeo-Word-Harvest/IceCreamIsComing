@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonne',de,Sommer,#4287f5,#3277e5,3,0.2001175281237222
 'Erderwärmung',de,Klima,#9e3215,#8e4225,3,0.1974841671129516
-'Schatten',de,Anpassung,#87830f,#777300,3,0.15266082507072282
 'Klimawandel',de,Klima,#9e3215,#ae3105,3,0.1521957199879513
+'Schatten',de,Anpassung,#87830f,#777300,3,0.148360739946478
 'Gewitter',de,Sommer,#4287f5,#3297e5,3,0.1179307695953186
 'Hitze',de,Sommer,#4287f5,#3297f9,3,0.1171051204165882
 'Sonnenstunden',de,Sommer,#3277f5,#4287f9,2,0.1120150497269184
