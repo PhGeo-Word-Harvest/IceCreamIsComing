@@ -9,9 +9,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenstunden',de,Sommer,#3277f5,#4287f9,2,0.1040636186095166
 'Freibad',de,Anpassung,#87830f,#779300,3,0.0911346254019052
 'Sommerferien',de,Schule,#40bd16,#30cd06,3,0.0904015932713483
+'Sonnenstich',de,Sommer,#4287f5,#5297e5,1,0.08660908086414548
 'Siesta',de,Anpassung,#87830f,#97931f,1,0.0575987325681664
-'Sonnenstich',de,Sommer,#4287f5,#5297e5,1,0.0570694363107594
 'Eiscreme',de,Anpassung,#87830f,#977300,2,0.0540788253323959
 'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.0345425887537495
 'Hitzefrei',de,Schule,#40bd16,#50ad26,1,0.0285530446815996
-'Hitzerekord',de,Sommer,#4287f5,#5277e5,1,0.00483058468737664
+'Hitzerekord',de,Sommer,#4287f5,#5277e5,1,0.0048305846873766
