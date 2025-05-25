@@ -7,11 +7,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erderwärmung',de,Klima,#9e3215,#8e4225,3,0.1611518719382544
 'Schatten',de,Anpassung,#87830f,#777300,3,0.1567418759927821
 'Sonnenstunden',de,Sommer,#3277f5,#4287f9,2,0.1306620143857611
-'Sommerferien',de,Schule,#40bd16,#30cd06,3,0.12933591067206204
+'Sommerferien',de,Schule,#40bd16,#30cd06,3,0.129335910672062
 'Hitze',de,Sommer,#4287f5,#3297f9,3,0.1094069352677542
 'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.087108855660556
 'Hitzerekord',de,Sommer,#4287f5,#5277e5,1,0.0672876399042698
 'Eiscreme',de,Anpassung,#87830f,#977300,2,0.0575390055470024
-'Siesta',de,Anpassung,#87830f,#97931f,1,0.034792297394182
 'Hitzefrei',de,Schule,#40bd16,#50ad26,1,0.0310233411304848
+'Siesta',de,Anpassung,#87830f,#97931f,1,0.030773572785054697
 'Sonnenstich',de,Sommer,#4287f5,#5297e5,1,0.01157804040555
