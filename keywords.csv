@@ -5,11 +5,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnencreme',de,Anpassung,#87830f,#77731f,2,0.161392383326152
 'Erderwärmung',de,Klima,#9e3215,#8e4225,3,0.1611518719382544
 'Schatten',de,Anpassung,#87830f,#777300,3,0.1567418759927821
-'Klimawandel',de,Klima,#9e3215,#ae3105,3,0.15646269272880411
+'Klimawandel',de,Klima,#9e3215,#ae3105,3,0.1564626927288041
 'Sonnenstunden',de,Sommer,#3277f5,#4287f9,2,0.1306620143857611
 'Sommerferien',de,Schule,#40bd16,#30cd06,3,0.129335910672062
 'Hitze',de,Sommer,#4287f5,#3297f9,3,0.1094069352677542
-'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.087108855660556
+'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.0743425573114726
 'Hitzerekord',de,Sommer,#4287f5,#5277e5,1,0.0672876399042698
 'Eiscreme',de,Anpassung,#87830f,#977300,2,0.0575390055470024
 'Hitzefrei',de,Schule,#40bd16,#50ad26,1,0.0310233411304848
