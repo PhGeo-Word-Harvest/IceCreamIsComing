@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzerekord',de,Sommer,#4287f5,#5277e5,2,0.1647479330808349
 'Sonnenstunden',de,Sommer,#3277f5,#4287f9,3,0.1640816262619282
 'Schatten',de,Anpassung,#87830f,#777300,3,0.1444643331322752
+'Sommerferien',de,Schule,#40bd16,#30cd06,3,0.13442437227874654
 'Hitze',de,Sommer,#4287f5,#3297f9,3,0.1343185313412274
-'Sommerferien',de,Schule,#40bd16,#30cd06,3,0.1148870240712526
 'Eiscreme',de,Anpassung,#87830f,#977300,2,0.0643470062534135
 'Hitzefrei',de,Schule,#40bd16,#50ad26,1,0.0289069797728873
 'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.0217128069263664
