@@ -7,9 +7,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erderwärmung',de,Klima,#9e3215,#8e4225,3,0.1673511877878429
 'Freibad',de,Anpassung,#87830f,#779300,3,0.164781384937772
 'Sommerferien',de,Schule,#40bd16,#30cd06,3,0.1646684568914799
-'Klimawandel',de,Klima,#9e3215,#ae3105,3,0.149766465700268
 'Hitzerekord',de,Sommer,#4287f5,#5277e5,2,0.1487819351603543
 'Sonnenstunden',de,Sommer,#3277f5,#4287f9,3,0.1435480077975713
+'Klimawandel',de,Klima,#9e3215,#ae3105,3,0.13226345084522778
 'Sonnenstich',de,Sommer,#4287f5,#5297e5,1,0.0962105313089173
 'Siesta',de,Anpassung,#87830f,#97931f,1,0.0798098695001522
 'Hitzefrei',de,Schule,#40bd16,#50ad26,1,0.0772712028069542
