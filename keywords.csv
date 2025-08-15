@@ -8,10 +8,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schatten',de,Anpassung,#87830f,#777300,3,0.1928770989919756
 'Sonnencreme',de,Anpassung,#87830f,#77731f,3,0.1920893273659463
 'Sonne',de,Sommer,#4287f5,#3277e5,3,0.1828290236070476
+'Hitzefrei',de,Schule,#40bd16,#50ad26,2,0.17640696077144208
 'Hitzerekord',de,Sommer,#4287f5,#5277e5,2,0.1723900837030413
 'Sonnenstunden',de,Sommer,#3277f5,#4287f9,2,0.1329025840088286
 'Sonnenstich',de,Sommer,#4287f5,#5297e5,1,0.1307841685753442
 'Eiscreme',de,Anpassung,#87830f,#977300,2,0.1231501784163381
-'Hitzefrei',de,Schule,#40bd16,#50ad26,1,0.1054490832605201
 'Siesta',de,Anpassung,#87830f,#97931f,2,0.0933317040718473
 'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.0197094753297883
