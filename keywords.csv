@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Freibad',de,Anpassung,#87830f,#779300,3,0.26661972167985265
-'Gewitter',de,Sommer,#4287f5,#3297e5,3,0.2504689588747634
+'Freibad',de,Anpassung,#87830f,#779300,3,0.2666197216798526
 'Hitze',de,Sommer,#4287f5,#3297f9,3,0.2460715031938396
+'Gewitter',de,Sommer,#4287f5,#3297e5,3,0.23603932822536705
 'Sonne',de,Sommer,#4287f5,#3277e5,3,0.2131284153742737
 'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.2131107939208311
 'Klimawandel',de,Klima,#9e3215,#ae3105,3,0.2040416078178535
