@@ -6,12 +6,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schatten',de,Anpassung,#87830f,#777300,3,0.1925085957361586
 'Gewitter',de,Sommer,#4287f5,#3297e5,3,0.1922143711714034
 'Klimawandel',de,Klima,#9e3215,#ae3105,3,0.1797857768302173
-'Hitze',de,Sommer,#4287f5,#3297f9,3,0.17880057400086954
+'Hitze',de,Sommer,#4287f5,#3297f9,3,0.1788005740008695
 'Hitzerekord',de,Sommer,#4287f5,#5277e5,2,0.1723900837030413
 'Erderwärmung',de,Klima,#9e3215,#8e4225,3,0.1696274332079919
 'Sonnencreme',de,Anpassung,#87830f,#77731f,3,0.1601123460928968
 'Eiscreme',de,Anpassung,#87830f,#977300,3,0.1364919251775433
 'Sonnenstunden',de,Sommer,#3277f5,#4287f9,2,0.11903292926957
-'Hitzefrei',de,Schule,#40bd16,#50ad26,2,0.1112624903486648
 'Siesta',de,Anpassung,#87830f,#97931f,2,0.1057024425241059
+'Hitzefrei',de,Schule,#40bd16,#50ad26,2,0.10424273756559584
 'Sonnenstich',de,Sommer,#4287f5,#5297e5,1,0.0898640079333312
