@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.3425282615894949
-'Sonne',de,Sommer,#4287f5,#3277e5,3,0.2126200557099258
 'Freibad',de,Anpassung,#87830f,#779300,3,0.2034005954704572
+'Sonne',de,Sommer,#4287f5,#3277e5,3,0.19934396598980056
 'Gewitter',de,Sommer,#4287f5,#3297e5,3,0.1925946332167934
 'Hitzerekord',de,Sommer,#4287f5,#5277e5,2,0.187031871147585
 'Schatten',de,Anpassung,#87830f,#777300,3,0.18122870187392
