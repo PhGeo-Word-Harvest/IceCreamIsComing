@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.3733077520817434
-'Freibad',de,Anpassung,#87830f,#779300,3,0.1960258643317067
+'Freibad',de,Anpassung,#87830f,#779300,3,0.19430201740922343
 'Schatten',de,Anpassung,#87830f,#777300,3,0.1908275034110138
 'Sommerferien',de,Schule,#40bd16,#30cd06,3,0.1795828583124487
 'Sonne',de,Sommer,#4287f5,#3277e5,3,0.1790056473112135
@@ -14,4 +14,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel',de,Klima,#9e3215,#ae3105,3,0.1330310017981298
 'Sonnenstich',de,Sommer,#4287f5,#5297e5,1,0.0891989024576172
 'Hitzefrei',de,Schule,#40bd16,#50ad26,1,0.0886067619307564
-'Siesta',de,Anpassung,#87830f,#97931f,1,0.08753665436936749
+'Siesta',de,Anpassung,#87830f,#97931f,1,0.0875366543693674
