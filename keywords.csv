@@ -10,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel',de,Klima,#9e3215,#ae3105,3,0.1466592581627851
 'Sommerferien',de,Schule,#40bd16,#30cd06,3,0.1433910256054522
 'Sonnenstunden',de,Sommer,#3277f5,#4287f9,2,0.1311909843005196
-'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.1017228253659063
 'Eiscreme',de,Anpassung,#87830f,#977300,3,0.0965859853578348
 'Siesta',de,Anpassung,#87830f,#97931f,1,0.0952871619485345
-'Hitzefrei',de,Schule,#40bd16,#50ad26,1,0.07548118174497145
+'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.08646440156102035
+'Hitzefrei',de,Schule,#40bd16,#50ad26,1,0.0754811817449714
 'Sonnenstich',de,Sommer,#4287f5,#5297e5,1,0.0484908086491414
