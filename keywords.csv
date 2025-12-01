@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzerekord',de,Sommer,#4287f5,#5277e5,1,0.29900693976296
-'Sonne',de,Sommer,#4287f5,#3277e5,3,0.20549272347845676
+'Sonne',de,Sommer,#4287f5,#3277e5,3,0.2054927234784567
 'Klimawandel',de,Klima,#9e3215,#ae3105,3,0.1615274940464523
 'Erderwärmung',de,Klima,#9e3215,#8e4225,3,0.1271395704547094
 'Schatten',de,Anpassung,#87830f,#777300,3,0.1215874994563112
@@ -14,4 +14,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Siesta',de,Anpassung,#87830f,#97931f,1,0.0072911638068057
 'Sonnenstich',de,Sommer,#4287f5,#5297e5,1,0.0032113778833936
 'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.0030297330906666
-'Hitzefrei',de,Schule,#40bd16,#50ad26,1,0.0020619854506899
+'Hitzefrei',de,Schule,#40bd16,#50ad26,1,0.001752687633086415
