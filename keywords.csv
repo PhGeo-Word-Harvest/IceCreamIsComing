@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Hitzerekord',de,Sommer,#4287f5,#5277e5,1,0.310882475345884
+'Hitzerekord',de,Sommer,#4287f5,#5277e5,2,0.3395501340440014
 'Sonne',de,Sommer,#4287f5,#3277e5,3,0.1753304990496511
 'Klimawandel',de,Klima,#9e3215,#ae3105,3,0.151605208572438
-'Schatten',de,Anpassung,#87830f,#777300,3,0.13411568149318073
+'Schatten',de,Anpassung,#87830f,#777300,3,0.1341156814931807
 'Hitze',de,Sommer,#4287f5,#3297f9,3,0.1223600325528591
 'Gewitter',de,Sommer,#4287f5,#3297e5,3,0.1126411880397019
 'Freibad',de,Anpassung,#87830f,#779300,2,0.1117465007731059
