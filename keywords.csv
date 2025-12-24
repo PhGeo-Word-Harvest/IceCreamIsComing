@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erderwärmung',de,Klima,#9e3215,#8e4225,3,0.1702264385937172
 'Klimawandel',de,Klima,#9e3215,#ae3105,3,0.1312948523527956
 'Sonne',de,Sommer,#4287f5,#3277e5,3,0.1273976265492331
+'Schatten',de,Anpassung,#87830f,#777300,3,0.12562372399600752
 'Hitze',de,Sommer,#4287f5,#3297f9,3,0.1223600325528591
-'Schatten',de,Anpassung,#87830f,#777300,3,0.1152145485514527
 'Freibad',de,Anpassung,#87830f,#779300,2,0.1117465007731059
 'Gewitter',de,Sommer,#4287f5,#3297e5,3,0.1052425943792011
 'Sommerferien',de,Schule,#40bd16,#30cd06,3,0.0916797835167376
