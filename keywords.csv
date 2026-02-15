@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schatten',de,Anpassung,#87830f,#777300,3,0.1422365131848825
+'Schatten',de,Anpassung,#87830f,#777300,3,0.1440483343889683
 'Klimawandel',de,Klima,#9e3215,#ae3105,3,0.1191594116477942
 'Erderwärmung',de,Klima,#9e3215,#8e4225,3,0.1141683534600222
 'Sonne',de,Sommer,#4287f5,#3277e5,3,0.1141054974928206
@@ -12,6 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eiscreme',de,Anpassung,#87830f,#977300,2,0.064268910673978
 'Sonnencreme',de,Anpassung,#87830f,#77731f,1,0.0615771094595413
 'Siesta',de,Anpassung,#87830f,#97931f,1,0.0225881886754957
-'Hitzefrei',de,Schule,#40bd16,#50ad26,1,0.00191283849702782
+'Hitzefrei',de,Schule,#40bd16,#50ad26,1,0.0019128384970278
 'Sonnenstich',de,Sommer,#4287f5,#5297e5,1,0.0018348463987981
 'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.0011631541868412
