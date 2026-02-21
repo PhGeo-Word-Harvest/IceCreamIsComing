@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schatten',de,Anpassung,#87830f,#777300,3,0.1537221266971309
 'Klimawandel',de,Klima,#9e3215,#ae3105,3,0.1500696673409948
+'Schatten',de,Anpassung,#87830f,#777300,3,0.1492657863289249
 'Gewitter',de,Sommer,#4287f5,#3297e5,3,0.1432289335564994
 'Sonnenstunden',de,Sommer,#3277f5,#4287f9,2,0.1137562170308179
 'Sonne',de,Sommer,#4287f5,#3277e5,3,0.1019611678688975
-'Sommerferien',de,Schule,#40bd16,#30cd06,3,0.09729231479753259
+'Sommerferien',de,Schule,#40bd16,#30cd06,3,0.0972923147975325
 'Erderwärmung',de,Klima,#9e3215,#8e4225,3,0.0969722286103952
 'Freibad',de,Anpassung,#87830f,#779300,2,0.0907622159102149
 'Hitze',de,Sommer,#4287f5,#3297f9,3,0.089682023423988
