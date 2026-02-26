@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gewitter',de,Sommer,#4287f5,#3297e5,3,0.1167756228579167
 'Sommerferien',de,Schule,#40bd16,#30cd06,3,0.0972923147975325
 'Erderwärmung',de,Klima,#9e3215,#8e4225,3,0.0969722286103952
-'Sonne',de,Sommer,#4287f5,#3277e5,3,0.09618250223401742
+'Sonne',de,Sommer,#4287f5,#3277e5,3,0.0961825022340174
 'Hitze',de,Sommer,#4287f5,#3297f9,3,0.0948250985467534
 'Sonnenstunden',de,Sommer,#3277f5,#4287f9,2,0.0925113351684022
 'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.0861666663075876
@@ -12,6 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnencreme',de,Anpassung,#87830f,#77731f,2,0.0688343813014796
 'Hitzerekord',de,Sommer,#4287f5,#5277e5,1,0.0677966200265673
 'Eiscreme',de,Anpassung,#87830f,#977300,2,0.064268910673978
-'Siesta',de,Anpassung,#87830f,#97931f,1,0.0084620382530664
+'Siesta',de,Anpassung,#87830f,#97931f,1,0.007642777515106439
 'Hitzefrei',de,Schule,#40bd16,#50ad26,1,0.0015606355294871
 'Sonnenstich',de,Sommer,#4287f5,#5297e5,1,0.0014531892731315
