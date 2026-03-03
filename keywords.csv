@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel',de,Klima,#9e3215,#ae3105,3,0.1643375690580274
-'Gewitter',de,Sommer,#4287f5,#3297e5,3,0.11304401305352704
 'Schatten',de,Anpassung,#87830f,#777300,3,0.1090938374469054
+'Gewitter',de,Sommer,#4287f5,#3297e5,3,0.10103909109549795
 'Erderwärmung',de,Klima,#9e3215,#8e4225,3,0.0969722286103952
 'Sonne',de,Sommer,#4287f5,#3277e5,3,0.0961825022340174
 'Hitze',de,Sommer,#4287f5,#3297f9,3,0.0948250985467534
