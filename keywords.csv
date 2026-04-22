@@ -5,8 +5,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erderwärmung',de,Klima,#9e3215,#8e4225,3,0.1395003462721277
 'Sonnencreme',de,Anpassung,#87830f,#77731f,1,0.1156041922929074
 'Hitzerekord',de,Sommer,#4287f5,#5277e5,1,0.1138240845053788
+'Hitze',de,Sommer,#4287f5,#3297f9,3,0.10896558286434299
 'Gewitter',de,Sommer,#4287f5,#3297e5,3,0.1057723729252152
-'Hitze',de,Sommer,#4287f5,#3297f9,3,0.1009708584500292
 'Sommerferien',de,Schule,#40bd16,#30cd06,3,0.07623572780458
 'Sonnenstunden',de,Sommer,#3277f5,#4287f9,2,0.0701560619091705
 'Freibad',de,Anpassung,#87830f,#779300,1,0.0595654026333606
