@@ -9,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel',de,Klima,#9e3215,#ae3105,3,0.1358357553842697
 'Hitzerekord',de,Sommer,#4287f5,#5277e5,1,0.1219383831604607
 'Freibad',de,Anpassung,#87830f,#779300,3,0.1163221675162393
-'Sommerferien',de,Schule,#40bd16,#30cd06,3,0.0970251059066202
-'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.04164981604816867
+'Sommerferien',de,Schule,#40bd16,#30cd06,3,0.11071125502062718
+'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.0416498160481686
 'Eiscreme',de,Anpassung,#87830f,#977300,2,0.035031598409514
 'Siesta',de,Anpassung,#87830f,#97931f,1,0.0310467875976832
 'Sonnenstich',de,Sommer,#4287f5,#5297e5,1,0.0010568964777453
