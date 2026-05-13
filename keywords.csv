@@ -10,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Freibad',de,Anpassung,#87830f,#779300,3,0.1310981296615306
 'Hitzerekord',de,Sommer,#4287f5,#5277e5,1,0.1219383831604607
 'Sommerferien',de,Schule,#40bd16,#30cd06,3,0.1107112550206271
-'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.0416498160481686
-'Eiscreme',de,Anpassung,#87830f,#977300,2,0.03582692214632841
+'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.03630243364094331
+'Eiscreme',de,Anpassung,#87830f,#977300,2,0.0358269221463284
 'Siesta',de,Anpassung,#87830f,#97931f,1,0.0277399044580307
 'Sonnenstich',de,Sommer,#4287f5,#5297e5,1,0.0010483770060835
 'Hitzefrei',de,Schule,#40bd16,#50ad26,1,3.764654503611174e-05
