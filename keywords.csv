@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Freibad',de,Anpassung,#87830f,#779300,3,0.1845680633941192
 'Klimawandel',de,Klima,#9e3215,#ae3105,3,0.1816619419888598
 'Erderwärmung',de,Klima,#9e3215,#8e4225,3,0.1682365110452232
+'Sonnenstunden',de,Sommer,#3277f5,#4287f9,3,0.15784922049438688
 'Schatten',de,Anpassung,#87830f,#777300,3,0.1360077042057966
 'Hitze',de,Sommer,#4287f5,#3297f9,3,0.1340016271888255
-'Sonnenstunden',de,Sommer,#3277f5,#4287f9,3,0.1317519289238776
 'Sommerferien',de,Schule,#40bd16,#30cd06,3,0.131530411002403
 'Sonnencreme',de,Anpassung,#87830f,#77731f,3,0.1298355811108537
 'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.0735412317472442
