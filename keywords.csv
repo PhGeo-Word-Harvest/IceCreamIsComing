@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gewitter',de,Sommer,#4287f5,#3297e5,3,0.3198692313707467
+'Gewitter',de,Sommer,#4287f5,#3297e5,3,0.2995794093924074
 'Freibad',de,Anpassung,#87830f,#779300,3,0.2712244879573589
 'Hitze',de,Sommer,#4287f5,#3297f9,3,0.2140775824988091
 'Erderwärmung',de,Klima,#9e3215,#8e4225,3,0.2024942987852329
@@ -13,5 +13,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenstich',de,Sommer,#4287f5,#5297e5,1,0.074024747132076
 'Hitzefrei',de,Schule,#40bd16,#50ad26,1,0.0567881425014176
 'Eiscreme',de,Anpassung,#87830f,#977300,3,0.0324646384892501
-'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.026185211520687625
+'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.0261852115206876
 'Siesta',de,Anpassung,#87830f,#97931f,1,0.0226078917654446
