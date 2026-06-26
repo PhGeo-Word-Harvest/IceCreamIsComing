@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gewitter',de,Sommer,#4287f5,#3297e5,3,0.3082480390446566
 'Freibad',de,Anpassung,#87830f,#779300,3,0.2895587116361006
+'Schatten',de,Anpassung,#87830f,#777300,3,0.2697546306965717
 'Erderwärmung',de,Klima,#9e3215,#8e4225,3,0.227085634064337
-'Schatten',de,Anpassung,#87830f,#777300,3,0.2205991216751111
 'Hitze',de,Sommer,#4287f5,#3297f9,3,0.2140775824988091
 'Hitzerekord',de,Sommer,#4287f5,#5277e5,3,0.2108153680044236
 'Klimawandel',de,Klima,#9e3215,#ae3105,3,0.2053371901602721
