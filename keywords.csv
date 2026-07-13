@@ -7,9 +7,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel',de,Klima,#9e3215,#ae3105,3,0.2397572431276
 'Hitzerekord',de,Sommer,#4287f5,#5277e5,3,0.2108153680044236
 'Schatten',de,Anpassung,#87830f,#777300,3,0.2086530798107992
-'Sonnencreme',de,Anpassung,#87830f,#77731f,3,0.20657566112192702
-'Siesta',de,Anpassung,#87830f,#97931f,3,0.1913926162377757
+'Sonnencreme',de,Anpassung,#87830f,#77731f,3,0.206575661121927
 'Sonne',de,Sommer,#4287f5,#3277e5,3,0.1796341186299905
+'Siesta',de,Anpassung,#87830f,#97931f,2,0.16268445880210936
 'Sommerferien',de,Schule,#40bd16,#30cd06,3,0.1620962133810543
 'Sonnenstunden',de,Sommer,#3277f5,#4287f9,2,0.156891677443558
 'Sonnenstich',de,Sommer,#4287f5,#5297e5,3,0.136169324680174
