@@ -3,10 +3,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzerekord',de,Sommer,#4287f5,#5277e5,3,0.3321304422432636
 'Gewitter',de,Sommer,#4287f5,#3297e5,3,0.3292443167444771
 'Klimawandel',de,Klima,#9e3215,#ae3105,3,0.2933959673626884
-'Freibad',de,Anpassung,#87830f,#779300,3,0.246138097200382
 'Schatten',de,Anpassung,#87830f,#777300,3,0.2392281418451205
-'Sonnencreme',de,Anpassung,#87830f,#77731f,3,0.23729308877196575
+'Sonnencreme',de,Anpassung,#87830f,#77731f,3,0.2372930887719657
 'Sonne',de,Sommer,#4287f5,#3277e5,3,0.2326413090965317
+'Freibad',de,Anpassung,#87830f,#779300,3,0.23235314580214286
 'Hitzefrei',de,Schule,#40bd16,#50ad26,2,0.2180288725951909
 'Erderwärmung',de,Klima,#9e3215,#8e4225,3,0.2098165472464094
 'Sommerferien',de,Schule,#40bd16,#30cd06,3,0.2073428155020259
