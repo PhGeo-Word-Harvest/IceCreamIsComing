@@ -8,10 +8,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Freibad',de,Anpassung,#87830f,#779300,3,0.2323531458021428
 'Sommerferien',de,Schule,#40bd16,#30cd06,3,0.231201368176722
 'Hitzefrei',de,Schule,#40bd16,#50ad26,2,0.2180288725951909
+'Sonnencreme',de,Anpassung,#87830f,#77731f,3,0.2097067043057197
 'Erderwärmung',de,Klima,#9e3215,#8e4225,3,0.2060230178867207
-'Sonnencreme',de,Anpassung,#87830f,#77731f,3,0.1981065446377451
 'Sonnenstunden',de,Sommer,#3277f5,#4287f9,2,0.1761491738393342
 'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.0973430016722155
 'Sonnenstich',de,Sommer,#4287f5,#5297e5,2,0.0910737622972448
-'Eiscreme',de,Anpassung,#87830f,#977300,2,0.08359260266303667
+'Eiscreme',de,Anpassung,#87830f,#977300,2,0.0835926026630366
 'Siesta',de,Anpassung,#87830f,#97931f,1,0.0710653651713276
