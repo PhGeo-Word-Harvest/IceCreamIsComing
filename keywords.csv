@@ -13,5 +13,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenstunden',de,Sommer,#3277f5,#4287f9,2,0.1493808180534644
 'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.1356534509629786
 'Sonnenstich',de,Sommer,#4287f5,#5297e5,1,0.1166170911655321
-'Siesta',de,Anpassung,#87830f,#97931f,1,0.10585226117154396
-'Eiscreme',de,Anpassung,#87830f,#977300,2,0.0742674887231611
+'Siesta',de,Anpassung,#87830f,#97931f,1,0.1058522611715439
+'Eiscreme',de,Anpassung,#87830f,#977300,2,0.06507805541468693
