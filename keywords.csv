@@ -7,8 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzerekord',de,Sommer,#4287f5,#5277e5,3,0.2304014958712106
 'Erderwärmung',de,Klima,#9e3215,#8e4225,3,0.2156790867554367
 'Sonne',de,Sommer,#4287f5,#3277e5,3,0.214653464393466
-'Schatten',de,Anpassung,#87830f,#777300,3,0.2033799654851606
 'Sonnencreme',de,Anpassung,#87830f,#77731f,3,0.1806755461108824
+'Schatten',de,Anpassung,#87830f,#777300,3,0.1778413756623865
 'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.164447577320752
 'Hitzefrei',de,Schule,#40bd16,#50ad26,2,0.1627562459930088
 'Sonnenstunden',de,Sommer,#3277f5,#4287f9,2,0.1493808180534644
