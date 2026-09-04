@@ -3,13 +3,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gewitter',de,Sommer,#4287f5,#3297e5,3,0.2973455111225375
 'Freibad',de,Anpassung,#87830f,#779300,3,0.278869616946851
 'Klimawandel',de,Klima,#9e3215,#ae3105,3,0.2418571254175939
-'Sommerferien',de,Schule,#40bd16,#30cd06,3,0.2358470059808339
 'Hitzerekord',de,Sommer,#4287f5,#5277e5,3,0.2304014958712106
 'Erderwärmung',de,Klima,#9e3215,#8e4225,3,0.2156790867554367
 'Sonne',de,Sommer,#4287f5,#3277e5,3,0.214653464393466
+'Sommerferien',de,Schule,#40bd16,#30cd06,3,0.21451830417461792
 'Sonnencreme',de,Anpassung,#87830f,#77731f,3,0.1806755461108824
 'Schatten',de,Anpassung,#87830f,#777300,3,0.1778413756623865
-'Sonnenstunden',de,Sommer,#3277f5,#4287f9,3,0.17270393569027231
+'Sonnenstunden',de,Sommer,#3277f5,#4287f9,3,0.1727039356902723
 'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.164447577320752
 'Hitzefrei',de,Schule,#40bd16,#50ad26,2,0.1627562459930088
 'Sonnenstich',de,Sommer,#4287f5,#5297e5,1,0.127784094009954
