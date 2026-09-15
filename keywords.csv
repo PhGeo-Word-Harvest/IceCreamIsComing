@@ -7,9 +7,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gewitter',de,Sommer,#4287f5,#3297e5,3,0.2142621040736368
 'Hitzerekord',de,Sommer,#4287f5,#5277e5,3,0.1883122735814525
 'Sommerferien',de,Schule,#40bd16,#30cd06,3,0.1872977585484252
-'Sonnenstunden',de,Sommer,#3277f5,#4287f9,3,0.1791653642634944
 'Schatten',de,Anpassung,#87830f,#777300,3,0.1652221134039376
 'Sonnencreme',de,Anpassung,#87830f,#77731f,3,0.1630980529873535
+'Sonnenstunden',de,Sommer,#3277f5,#4287f9,3,0.15319163962397023
 'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.14624380988044
 'Hitzefrei',de,Schule,#40bd16,#50ad26,1,0.1383431390940575
 'Siesta',de,Anpassung,#87830f,#97931f,1,0.1280745276297887
