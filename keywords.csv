@@ -9,9 +9,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schatten',de,Anpassung,#87830f,#777300,3,0.1652221134039376
 'Sonnencreme',de,Anpassung,#87830f,#77731f,3,0.1617661832210686
 'Sommerferien',de,Schule,#40bd16,#30cd06,3,0.1615908193117334
-'Sonnenstunden',de,Sommer,#3277f5,#4287f9,3,0.1442549277712837
 'Hitzefrei',de,Schule,#40bd16,#50ad26,1,0.1383431390940575
-'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.07873039052827642
+'Sonnenstunden',de,Sommer,#3277f5,#4287f9,3,0.12456787360559114
+'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.0787303905282764
 'Siesta',de,Anpassung,#87830f,#97931f,1,0.0702524935335472
 'Sonnenstich',de,Sommer,#4287f5,#5297e5,1,0.0658510816704595
 'Eiscreme',de,Anpassung,#87830f,#977300,2,0.0631253675640049
