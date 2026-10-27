@@ -10,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonnenstunden',de,Sommer,#3277f5,#4287f9,2,0.1333614660993943
 'Schatten',de,Anpassung,#87830f,#777300,3,0.1285187015595794
 'Sonnencreme',de,Anpassung,#87830f,#77731f,1,0.122626549950184
-'Freibad',de,Anpassung,#87830f,#779300,3,0.1117969526940363
+'Freibad',de,Anpassung,#87830f,#779300,2,0.09502790478993087
 'Eiscreme',de,Anpassung,#87830f,#977300,2,0.064059173110448
 'Siesta',de,Anpassung,#87830f,#97931f,1,0.0456151571577492
 'Sonnenstich',de,Sommer,#4287f5,#5297e5,1,0.0249022660078506
-'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.022104192127770657
+'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.0221041921277706
