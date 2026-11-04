@@ -7,11 +7,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzerekord',de,Sommer,#4287f5,#5277e5,1,0.1409373787004515
 'Sommerferien',de,Schule,#40bd16,#30cd06,3,0.1338826027843682
 'Schatten',de,Anpassung,#87830f,#777300,3,0.1285187015595794
-'Hitzefrei',de,Schule,#40bd16,#50ad26,1,0.11512764637226612
+'Hitzefrei',de,Schule,#40bd16,#50ad26,1,0.1151276463722661
 'Sonnencreme',de,Anpassung,#87830f,#77731f,2,0.1145257396005135
 'Sonnenstunden',de,Sommer,#3277f5,#4287f9,1,0.1133576961844851
 'Freibad',de,Anpassung,#87830f,#779300,2,0.0950279047899308
 'Eiscreme',de,Anpassung,#87830f,#977300,2,0.0576006121438807
 'Siesta',de,Anpassung,#87830f,#97931f,1,0.0224650888292906
-'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.018788563308605
 'Sonnenstich',de,Sommer,#4287f5,#5297e5,1,0.018591947190672
+'Hitzetod',de,Sommer,#4287f5,#5277f9,1,0.01597027881231425
